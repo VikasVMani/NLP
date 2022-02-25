@@ -1,0 +1,6285 @@
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੱਧ	B-LOC
+pa:ਅਫਰੀਕੀ	I-LOC
+pa:ਗਣਰਾਜ	I-LOC
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਸੰਗਰੂਰ	B-LOC
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਅੰਮ੍ਰਿਤਸਰ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਲਾਥੋਲ	B-PER
+pa:ਨਾਰਾਇਣ	I-PER
+pa:ਮੈਨਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਫ਼ਲਸਤੀਨ	B-ORG
+pa:ਮੁਕਤੀ	I-ORG
+pa:ਸੰਗਠਨ	I-ORG
+
+pa:ਗੁਰੂ	B-PER
+pa:ਨਾਨਕ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:ਸੌਦਾ	B-PER
+pa:(	O
+pa:1713–1780	O
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਪਟਨਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਅੰਗੋਲਾ	B-LOC
+pa:,	O
+pa:ਬੋਤਸਵਾਨਾ	B-LOC
+pa:,	O
+pa:ਨਮੀਬੀਆ	B-LOC
+pa:ਅਤੇ	O
+pa:ਦੱਖਣੀ	B-LOC
+pa:ਅਫ਼ਰੀਕਾ	I-LOC
+
+pa:ਗੁਰੂ	B-PER
+pa:ਹਰਿਕ੍ਰਿਸ਼ਨ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਫ਼ਗ਼ਾਨਿਸਤਾਨ	B-LOC
+pa:ਦੇ	I-LOC
+pa:ਸੂਬੇ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦ	B-PER
+pa:ਗਰੇਟ	I-PER
+pa:ਖਲੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮਿੱਲਵਾਲ	B-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਸਹਿਰਾਵੀ	B-LOC
+pa:ਅਰਬ	I-LOC
+pa:ਲੋਕਤੰਤਰੀ	I-LOC
+pa:ਗਣਰਾਜ	I-LOC
+
+pa:ਰੱਬ	O
+pa:ਇੱਕ	O
+pa:ਵਿੱਚ	O
+pa:ਤਿੰਨ	O
+pa:ਹੈ	O
+pa:ਅਤੇ	O
+pa:ਨਾਲ	O
+pa:ਹੀ	O
+pa:ਨਾਲ	O
+pa:ਤਿੰਨ	O
+pa:ਵਿੱਚ	O
+pa:ਇੱਕ	O
+pa:—	O
+pa:ਪਰਮਪਿਤਾ	O
+pa:,	O
+pa:ਰੱਬ	O
+pa:ਦਾ	O
+pa:ਪੁੱਤਰ	O
+pa:ਈਸਾ	B-PER
+pa:ਮਸੀਹ	I-PER
+pa:ਅਤੇ	O
+pa:ਪਵਿੱਤਰ	O
+pa:ਆਤਮਾ।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਬਾਰਤੋਲੋਮੇ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਪੁਐਯਿਸ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮਹਾਰਾਣਾ	B-PER
+pa:ਜਵਾਨ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਮੋਢੀ	O
+pa:ਦਾ	O
+pa:ਨਾਮ	O
+pa:ਮੁਹੰਮਦ	B-PER
+pa:ਯੂਨਸ	I-PER
+
+pa:ਉੱਤਰ	B-LOC
+pa:ਪ੍ਰਦੇਸ਼	I-LOC
+pa:(	O
+pa:14	O
+pa:)	O
+
+pa:ਪੰਜਾਬ	B-LOC
+pa:,	I-LOC
+pa:ਭਾਰਤ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਜ਼ੀਰੰਗਾ	B-LOC
+pa:ਕੌਮੀ	I-LOC
+pa:ਪਾਰਕ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮਾਦਰੀਦ	B-ORG
+pa:ਦਾ	I-ORG
+pa:ਸ਼ਾਹੀ	I-ORG
+pa:ਮਹਿਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਵਾਨਜ਼ੀ	B-ORG
+pa:ਸਿਟੀ	I-ORG
+pa:ਐਸੋਸੀਏਸ਼ਨ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਲਾਹੌਲ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਸਪੀਤੀ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮੀ	B-LOC
+pa:ਖੇਤੀ	I-LOC
+pa:ਤੇ	I-LOC
+pa:ਪੇਂਡੂ	I-LOC
+pa:ਵਿਕਾਸ	I-LOC
+pa:ਬੈਂਕ	I-LOC
+
+pa:ਇਹਨਾਂ	O
+pa:ਦਾ	O
+pa:ਲਿਖਿਆ	O
+pa:ਅਤੇ	O
+pa:ਜਗਜੀਤ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਦਾ	O
+pa:ਗਾਇਆ	O
+pa:ਗੀਤ	O
+pa:“ਸਾਉਣ	O
+pa:ਦਾ	O
+pa:ਮਹੀਨਾ”	O
+pa:ਬਹੁਤ	O
+pa:ਮਸ਼ਹੂਰ	O
+pa:ਹੋਇਆ।	O
+
+pa:ਰੀਗਾ	B-LOC
+pa:(	O
+pa:Rīga	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੈਰਾ	B-LOC
+pa:ਦੇ	I-LOC
+pa:ਤਰਾਮੁਨਤਾਨਾ	I-LOC
+
+pa:ਮੋਹਨਦਾਸ	B-PER
+pa:ਕਰਮਚੰਦ	I-PER
+pa:ਗਾਂਧੀ	I-PER
+
+pa:ਮਹਾਰਾਜਾ	B-PER
+pa:ਰਜਿੰਦਰ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੀਗੇਲ	B-PER
+pa:ਦੇ	I-PER
+pa:ਸਿਰਵਾਂਤਿਸ	I-PER
+
+pa:ਕੋਕੋਸ	B-LOC
+pa:(	I-LOC
+pa:ਕੀਲਿੰਗ	I-LOC
+pa:)	I-LOC
+pa:ਟਾਪੂ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਿਨਸੈਂਟ	B-PER
+pa:ਵਾਨ	I-PER
+pa:ਗਾਗ	I-PER
+pa:ਦੀ	I-PER
+pa:ਮੌਤ	I-PER
+
+pa:ਨਵਾਂ	B-ORG
+pa:ਜ਼ਮਾਨਾ	I-ORG
+pa:-	O
+pa:ਇਹ	O
+pa:ਲਈ	O
+pa:ਜਲੰਧਰ	B-LOC
+pa:ਤੋਂ	O
+pa:ਛਪਦਾ	O
+pa:ਹੈ।	O
+
+pa:===	O
+pa:ਬਾਬਾ	B-PER
+pa:ਫ਼ਰੀਦ	I-PER
+pa:(	O
+pa:1173	O
+pa:-1266	O
+pa:)	O
+pa:===	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਇੰਡੀਆ	B-ORG
+pa:ਅਗੇਂਸਟ	I-ORG
+pa:ਕਰੱਪਸ਼ਨ	I-ORG
+
+pa:ਜੱਗ	O
+pa:ਨਿਵਾਸ	O
+pa:,	O
+pa:ਜਿੱਥੇ	O
+pa:ਲੇਕ	B-ORG
+pa:ਪੈਲੇਸ	I-ORG
+pa:ਬਣਿਆ	O
+pa:ਹੋਈਆ	O
+pa:ਹੈ।	O
+
+pa:Jai	B-ORG
+pa:Vilas	I-ORG
+pa:Mahal	I-ORG
+pa:,	O
+pa:Gwalior	B-LOC
+pa:of	O
+pa:the	O
+pa:Scindias	O
+
+pa:ਅਹਿਸਾਨ	B-PER
+pa:ਦਾਨਿਸ਼	I-PER
+pa:(	O
+pa:1914-1982	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:2010	B-PER
+pa:ਏਸ਼ੀਆਈ	I-PER
+pa:ਖੇਡਾਂ	I-PER
+
+pa:ਸਾਹਿਤ	B-ORG
+pa:ਅਕਾਦਮੀ	I-ORG
+pa:ਲਈ	O
+pa:ਕੁਲਵੰਤ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਵਿਰਕ	I-PER
+pa:ਉੱਤੇ	O
+pa:ਕਿਤਾਬ	O
+pa:ਲਿਖੀ	O
+pa:ਹੈ।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਮੇਸ਼	B-PER
+pa:ਚੰਦਰ	I-PER
+pa:ਦੱਤ	I-PER
+
+pa:ਹਰਡ	B-LOC
+pa:ਟਾਪੂ	I-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਮੈਕਡਾਨਲਡ	I-LOC
+pa:ਟਾਪੂ	I-LOC
+pa:''	O
+pa:,	O
+pa:'	O
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਐਸਤਾਦੀ	B-ORG
+pa:ਕੌਰਨੇਯਾ-ਐੱਲ	I-ORG
+pa:ਪ੍ਰਾਤ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਨਾਲੰਦਾ	B-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖ਼ਾਨ	B-PER
+pa:ਅਬਦੁਲ	I-PER
+pa:ਗ਼ਫ਼ਾਰ	I-PER
+pa:ਖ਼ਾਨ	B-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਾਰੀ	B-ORG
+pa:ਸਾਂ-ਜਰਮਾਂ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਹਰੀ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਨਲੂਆ	I-PER
+
+pa:ਡਫ਼ਰਿਨ-ਪੀਲ	B-LOC
+pa:ਕੈਥੋਲਿਕ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+pa:ਸਕੂਲ	I-LOC
+pa:ਬੋਰਡ	I-LOC
+
+pa:*ਨਾਗਲਿੰਗਮ	O
+pa:ਇਡਰਿਤ	O
+pa:ਅਤੇ	O
+pa:ਸ੍ਰਿਯਾਨੀ	O
+pa:ਕੁਲਾਵਾਂਸਾ	O
+pa:ਸ੍ਰੀਲੰਕਾ	B-LOC
+pa:ਨੇ	O
+pa:ਖੇਡ	O
+pa:ਜੋਤੀ	O
+pa:ਨੂੰ	O
+pa:ਜਲਾਇਆ।	O
+
+pa:'	O
+pa:''	O
+pa:ਕੈਨੇਡਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗ਼ੁਲਾਮ	B-PER
+pa:ਅੱਬਾਸ	I-PER
+pa:(	I-PER
+pa:ਲੇਖਕ	I-PER
+pa:)	I-PER
+
+pa:ਸਵਾਮੀ	B-PER
+pa:ਵਿਵੇਕਾਨੰਦ	I-PER
+pa:ਦਾ	O
+pa:ਬੁੱਤ	O
+pa:ਚੱਟਾਨ	O
+pa:ਉੱਤੇ	O
+pa:ਬਣਾਇਆ	O
+pa:ਗਿਆ	O
+pa:ਹੈ।	O
+
+pa:ਸੇਂਟ	B-LOC
+pa:ਵਿਨਸੈਂਟ	I-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਗ੍ਰੇਨਾਡੀਨਜ਼	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੇ	B-PER
+pa:ਐਮ	I-PER
+pa:ਮੁਨਸ਼ੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖ਼ੁਦੀ	B-PER
+pa:ਰਾਮ	I-PER
+pa:ਬੋਸ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਤੋਲੂਕਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਬੰਦਾ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਬਹਾਦਰਦੇ	I-PER
+pa:ਦੋ	O
+pa:ਹੁਕਮਨਾਮੇ	O
+
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਵਰਜਿਨ	I-LOC
+pa:ਟਾਪੂ	I-LOC
+
+pa:ਅੰਡੇਮਾਨ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਨਿਕੋਬਾਰ	I-LOC
+pa:ਟਾਪੂ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੂਰ	B-PER
+pa:ਜਹਾਂ	I-PER
+pa:(	I-PER
+pa:ਗਾਇਕਾ	I-PER
+pa:)	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਰਲਿਨ	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਕੰਧ	I-ORG
+
+pa:ਪੰਜਾਬ	B-ORG
+pa:ਵਾਈਡ	I-ORG
+pa:ਏਰੀਆ	I-ORG
+pa:ਨੈਟਵਰਕ	I-ORG
+pa:ਪਰੋਜੈਕਟ	I-ORG
+pa:ਪਵਨ	I-ORG
+pa:(	I-ORG
+pa:PAWAN	I-ORG
+pa:)	I-ORG
+pa:ਤੇ	I-ORG
+pa:ਇਲੈਕਟ੍ਰਾਨਿਕ-ਗਵਰਨੈਂਸ	I-ORG
+
+pa:ਨੈਸ਼ਨਲ	B-ORG
+pa:ਹਾਈਵੇ	I-ORG
+pa:1	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਕੜ੍ਹੀ	B-LOC
+pa:ਪੱਤੇ	I-LOC
+pa:ਦਾ	I-LOC
+pa:ਰੁੱਖ	I-LOC
+
+pa:(	O
+pa:ਜੰਮੂ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਕਸ਼ਮੀਰ	I-LOC
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦ	B-ORG
+pa:ਵਾਲ	I-ORG
+pa:ਸਟਰੀਟ	I-ORG
+pa:ਜਰਨਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦਾਦਾ	B-PER
+pa:ਭਾਈ	I-PER
+pa:ਨਾਰੋਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸ੍ਰੀ	B-LOC
+pa:ਮੁਕਤਸਰ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਪਾਪੂਆ	B-LOC
+pa:ਨਿਊ	I-LOC
+pa:ਗਿਨੀ	I-LOC
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਪਟਿਆਲਾ	B-LOC
+
+pa:ਰਿਓ	B-LOC
+pa:ਡੀ	I-LOC
+pa:ਜਨੇਰੋ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੰਜਾਬ	B-ORG
+pa:ਖੇਤੀਬਾੜੀ	I-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:੨੦੦੮	B-ORG
+pa:ਓਲੰਪਿਕ	I-ORG
+pa:ਖੇਡਾਂ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਵਿੱਚ	I-ORG
+pa:ਕੁਸ਼ਤੀ	I-ORG
+pa:–	I-ORG
+pa:ਮਰਦਾਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਫਰੀਸਟਾਈਲ	I-ORG
+pa:੬੦	I-ORG
+pa:ਕਿਲੋਗਰਾਮ	I-ORG
+
+pa:੨੦੦੮	B-ORG
+pa:ਓਲੰਪਿਕ	I-ORG
+pa:ਖੇਡਾਂ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਵਿੱਚ	I-ORG
+pa:ਕੁਸ਼ਤੀ	I-ORG
+pa:–	I-ORG
+pa:ਪੁਰਸ਼ਾਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਫ੍ਰੀਸਟਾਇਲ	I-ORG
+pa:੭੪	I-ORG
+pa:ਕਿਲੋਗਰਾਮ	I-ORG
+
+pa:ਕੇਰਲਾ	B-LOC
+pa:ਦੀ	O
+pa:ਸਾਖਰਤਾ	O
+pa:ਦਰ	O
+pa:ਸਭ	O
+pa:ਤੋਂ	O
+pa:ਵੱਧ	O
+pa:ਅਤੇ	O
+pa:ਬਿਹਾਰ	B-LOC
+pa:ਦੀ	O
+pa:ਸਭ	O
+pa:ਤੋਂ	O
+pa:ਘੱਟ	O
+pa:ਹੈ।	O
+
+pa:ਕੌਮਾਂਤਰੀ	B-ORG
+pa:ਸ਼ੁੱਧ	I-ORG
+pa:ਅਤੇ	I-ORG
+pa:ਵਿਹਾਰਕ	I-ORG
+pa:ਰਸਾਇਣ	I-ORG
+pa:ਵਿਗਿਆਨ	I-ORG
+pa:ਸੰਘ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮੀ	B-ORG
+pa:ਮਨੁੱਖੀ	I-ORG
+pa:ਹੱਕ	I-ORG
+pa:ਕਮਿਸ਼ਨ	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਬਠਿੰਡਾ	B-ORG
+pa:(	I-ORG
+pa:ਲੋਕ	I-ORG
+pa:ਸਭਾ	I-ORG
+pa:ਚੋਣ-ਹਲਕਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਨਿਊਫ਼ੰਡਲੈਂਡ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਲਾਬਰਾਡੋਰ	I-LOC
+
+pa:ਰੀਜਿਕਨ	B-LOC
+pa:(	O
+pa:Rēzekne	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਟੀ	B-PER
+pa:ਐਸ	I-PER
+pa:ਈਲੀਅਟ	I-PER
+
+pa:ਕੌਮਾਂਤਰੀ	B-ORG
+pa:ਮਜ਼ਦੂਰ	I-ORG
+pa:ਜੱਥੇਬੰਦੀ	I-ORG
+
+pa:ਸਰਕਾਰੀ	B-ORG
+pa:ਮੈਡੀਕਲ	I-ORG
+pa:ਕਾਲਜ	I-ORG
+pa:,	I-ORG
+pa:ਅੰਮ੍ਰਿਤਸਰ	I-ORG
+
+pa:ਦੱਖਣੀ	B-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+pa:ਵਿੱਚ	O
+pa:ਰਹਿਣ	O
+pa:ਵਾਲੇ	O
+pa:ਡੱਡੂਆਂ	O
+pa:ਦੀ	O
+pa:ਚਮੜੀ	O
+pa:ਜ਼ਹਿਰੀਲੀ	O
+pa:ਅਤੇ	O
+pa:ਗੂੜ੍ਹੇ	O
+pa:ਰੰਗ	O
+pa:ਦੀ	O
+pa:ਹੁੰਦੀ	O
+pa:ਹੈ	O
+pa:,	O
+pa:ਜੋ	O
+pa:ਦੁਸ਼ਮਣ	O
+pa:ਨੂੰ	O
+pa:ਦੂਰ	O
+pa:ਰੱਖਦੀ	O
+pa:ਹੈ।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਭਾਰਤੀ	B-ORG
+pa:ਵਿਗਿਆਨ	I-ORG
+pa:ਅਦਾਰਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਰਨੈਲ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਭਿੰਡਰਾਂਵਾਲਾ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਾਣੀਪਤ	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਦੂਜੀ	I-ORG
+pa:ਲੜਾਈ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਾਜਕੁਮਾਰੀ	B-PER
+pa:ਅੰਮ੍ਰਿਤ	I-PER
+pa:ਕੌਰ	I-PER
+
+pa:ਸਨਮ	B-PER
+pa:ਸਈਦ	I-PER
+pa:(	O
+pa:ਰੂਹੀਨਾ	O
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਹਵਾਨਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:''	O
+pa:ਕਹਾਣੀ	O
+pa:''	O
+pa:-	O
+pa:ਮੋਹਨ	B-PER
+pa:ਰਾਕੇਸ਼	I-PER
+
+pa:ਪ੍ਰਕਾਸ਼	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਬਦਲਣਯੋਗ	I-ORG
+pa:ਸਪੀਡ	I-ORG
+
+pa:ਦ੍ਰਿਸ਼	O
+pa:2	O
+pa:-	O
+pa:ਲਾਲ	B-ORG
+pa:ਚੌਕ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਟਿਆਲਾ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਪੂਰਬੀ	I-LOC
+pa:ਪੰਜਾਬ	I-LOC
+pa:ਸਟੇਟਸ	I-LOC
+pa:ਯੂਨੀਅਨ	I-LOC
+pa:(	I-LOC
+pa:ਪੈਪਸੂ	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੈਸ਼ਨਲ	B-ORG
+pa:ਪਾਰਟੀ	I-ORG
+pa:(	I-ORG
+pa:ਦੱਖਣੀ	I-ORG
+pa:ਅਫ਼ਰੀਕਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਲੋਚਿਸਤਾਨ	B-LOC
+pa:(	I-LOC
+pa:ਪਾਕਿਸਤਾਨ	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਟ੍ਰਾਂਸਪੋਰਟ	B-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਲੰਡਨ	I-ORG
+
+pa:ਕਰਕੇ	O
+pa:ਪੰਜਾਬੀ	B-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:,	I-ORG
+pa:ਪਟਿਆਲਾ	I-ORG
+pa:ਲੈਕਚਰਾਰ	O
+pa:ਲੱਗੇ।	O
+pa:ਪਹਿਲਾਂ	O
+pa:ਐਮ.ਏ	O
+pa:.	O
+
+pa:ਹੋਦ	B-ORG
+pa:ਚਿੱਲੜ	I-ORG
+pa:ਕਾਂਡ	I-ORG
+pa:,	O
+pa:ਹਰਿਆਣਾ	B-LOC
+
+pa:'	O
+pa:''	O
+pa:ਮੋ	B-PER
+pa:ਯਾਨ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਫਿਲਮਜ਼	O
+pa:--	O
+pa:ਰਾਜ	B-PER
+pa:ਕਪੂਰ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਏਕਤਾ	B-ORG
+pa:ਦਾ	I-ORG
+pa:ਬੁੱਤ	I-ORG
+
+pa:ਦਸ਼ਰਥ	B-PER
+pa:ਸ਼ਰਮਾ	I-PER
+pa:(	O
+pa:1903-1976	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖ਼ੇਰੇਜ਼	B-ORG
+pa:ਦੇ	I-ORG
+pa:ਲਾ	I-ORG
+pa:ਫ਼ਰੌਨਤੇਰਾ	I-ORG
+pa:ਨਗਰਪਾਲਿਕਾ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਪੁਰਾਤੱਤਵ	I-ORG
+pa:ਅਜਾਇਬ-ਘਰ	I-ORG
+
+pa:ਗੁਰੂ	B-PER
+pa:ਨਾਨਕ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮੀ	B-ORG
+pa:ਮਨੁੱਖੀ	I-ORG
+pa:ਹੱਕ	I-ORG
+pa:ਕਮਿਸ਼ਨ	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਪ੍ਰਣਬ	B-PER
+pa:ਮੁਖਰਜੀ	I-PER
+pa:(	O
+pa:1935–	O
+pa:)	O
+
+pa:ਗੁਰੂ	B-PER
+pa:ਅੰਗਦ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:'	O
+pa:''	O
+pa:'	O
+pa:''	O
+pa:ਛੱਤੀਸਗੜ੍ਹ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਇੱਕ	O
+pa:ਏਰਿਏ	O
+pa:ਦਾ	O
+pa:ਨਾਮ	O
+pa:ਹੈ।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤੀਆਗੋ	B-ORG
+pa:ਆਸ਼ਰਮ	I-ORG
+pa:(	I-ORG
+pa:ਮੋਨਸਾਕਰੋ	I-ORG
+pa:)	I-ORG
+
+pa:ਸ਼ਹੀਦ	B-LOC
+pa:ਭਗਤ	I-LOC
+pa:ਸਿੰਘ	I-LOC
+pa:ਨਗਰ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਪਾਬਲੋ	B-PER
+pa:ਨੇਰੂਦਾ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਕਨੈਟੀਕਟ	B-LOC
+pa:ਮੇਨ	B-LOC
+pa:ਮੈਸਾਚੂਸਟਸ	B-LOC
+pa:ਨਿਊ	B-LOC
+pa:ਹੈਂਪਸ਼ਰ	I-LOC
+pa:ਰੋਡ	B-LOC
+pa:ਟਾਪੂ	I-LOC
+pa:ਵਰਮਾਂਟ	B-LOC
+
+pa:ਸ਼ਾਮ	B-LOC
+pa:(	I-LOC
+pa:ਇਲਾਕਾ	I-LOC
+pa:)	I-LOC
+
+pa:ਸ਼ਾਮ	B-LOC
+pa:(	I-LOC
+pa:ਇਲਾਕਾ	I-LOC
+pa:)	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਬੰਗਲੌਰ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:==[[	O
+pa:ਅਲਬਰਟ	B-PER
+pa:ਆਈਨਸਟਾਈਨ	I-PER
+pa:$	O
+pa:-ਕੁਆਂਟਮ	O
+pa:ਮਕੈਨਿਕਸ-	O
+pa:$	O
+pa:]]==	O
+
+pa:'	O
+pa:''	O
+pa:ਕਲੌਦ	B-PER
+pa:ਸੀਮੋਨ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਦੰਦ	B-LOC
+pa:ਖੰਡ	I-LOC
+pa:ਤਟ	I-LOC
+
+pa:ਮੌਲਾਨਾ	B-PER
+pa:ਅਬੁਲ	I-PER
+pa:ਕਲਾਮ	I-PER
+pa:ਆਜ਼ਾਦ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਪੇਨ	B-ORG
+pa:ਦਾ	I-ORG
+pa:ਕੌਮੀ	I-ORG
+pa:ਪੁਰਾਤੱਤਵ	I-ORG
+pa:ਅਜਾਇਬ-ਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਯੋਹਾਨ	B-PER
+pa:ਸੇਬਾਸਤੀਅਨ	I-PER
+pa:ਬਾਖ਼	I-PER
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਬਠਿੰਡਾ	B-LOC
+
+pa:ਤਖ਼ਤ	B-LOC
+pa:ਸ੍ਰੀ	I-LOC
+pa:ਦਮਦਮਾ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+
+pa:ਫ਼ਤਹਿਗੜ੍ਹ	B-LOC
+pa:ਸਾਹਿਬ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਜਾਰਵਿਸ	B-LOC
+pa:ਖਾੜੀ	I-LOC
+pa:ਰਾਜਖੇਤਰ	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਗੁਆਦਾਲਾਹਾਰਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਾਦ	B-LOC
+pa:ਪੀਐਖ਼	I-LOC
+pa:ਮੋਖ਼ਵਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵੋਲਫ਼ਗਾਂਗ	B-PER
+pa:ਆਮਾਡੇਅਸ	I-PER
+pa:ਮੋਜ਼ਾਰਟ	I-PER
+
+pa:ਪਵਨ	B-PER
+pa:ਮਲਹੋਤਰਾ	I-PER
+pa:-	O
+pa:ਧੰਨੂ	O
+
+pa:ਪੰਜਾਬੀ	B-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:,	I-ORG
+pa:ਪਟਿਆਲਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖ਼ਵਾਜਾ	B-PER
+pa:ਮੀਰ	I-PER
+pa:ਦਰਦ	I-PER
+
+pa:ਸਰਕਾਰੀ	B-ORG
+pa:ਮੈਡੀਕਲ	I-ORG
+pa:ਕਾਲਜ	I-ORG
+pa:,	I-ORG
+pa:ਪਟਿਆਲਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੂਰ	B-PER
+pa:ਇਨਾਇਤ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਗਿਆਨੀ	B-PER
+pa:ਸੰਤ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਮਸਕੀਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਰਕੀ	B-ORG
+pa:ਦਾ	I-ORG
+pa:ਕਿਲਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਿਆਸ	B-PER
+pa:(	I-PER
+pa:ਰਿਸ਼ੀ	I-PER
+pa:)	I-PER
+
+pa:ਬੂਟਾ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:-	O
+pa:ਝਗੜਾ	O
+pa:ਚਾਹ	O
+pa:ਤੇ	O
+pa:ਲੱਸੀ	O
+pa:ਦਾ	O
+
+pa:Melbourne	B-LOC
+pa:,	O
+pa:Victoria	B-LOC
+pa:,	O
+pa:Australia	B-LOC
+pa:(	O
+pa:2008	O
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਮੁਹੰਮਦ	B-PER
+pa:ਯੂਨਸ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਦੋਹਾ	B-LOC
+pa:(	O
+pa:'	O
+pa:''	O
+pa:'	O
+pa:)	O
+
+pa:ਭਾਰਤ	B-ORG
+pa:ਦਾ	I-ORG
+pa:ਫ਼ਿਲਮ	I-ORG
+pa:ਅਤੇ	I-ORG
+pa:ਟੈਲੀਵਿਜ਼ਨ	I-ORG
+pa:ਇੰਸਟੀਚਿਊਟ	I-ORG
+
+pa:ਜਨਤਾ	B-ORG
+pa:ਦਲ	I-ORG
+pa:(	I-ORG
+pa:ਯੁਨਾਈਟਡ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਯਾਂ	B-PER
+pa:ਪਾਲ	I-PER
+pa:ਸਾਰਤਰ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰੇਈਨਾ	B-ORG
+pa:ਸੋਫ਼ੀਆ	I-ORG
+pa:ਕੌਮੀ	I-ORG
+pa:ਕਲਾ	I-ORG
+pa:ਕੇਂਦਰ	I-ORG
+pa:ਅਜਾਇਬਘਰ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਪ੍ਰਧਾਨ	B-PER
+pa:ਮੰਤਰੀ	I-PER
+pa:ਦਾ	O
+pa:ਨਾਮ	O
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਯੂਨੀਵਰਸਿਟੀ	B-ORG
+pa:ਗਰਾਂਟਸ	I-ORG
+pa:ਕਮਿਸ਼ਨ	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਜ਼ੀਰੰਗਾ	B-LOC
+pa:ਕੌਮੀ	I-LOC
+pa:ਪਾਰਕ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਯੋਤੀ	B-PER
+pa:ਰਾਓ	I-PER
+pa:ਗੋਬਿੰਦ	I-PER
+pa:ਰਾਓ	I-PER
+pa:ਫੂਲੇ	I-PER
+
+pa:ਵਿੱਚ	O
+pa:ਰੂਸ	B-LOC
+pa:ਦਾ	O
+pa:ਭਾਗ	O
+pa:ਬਣ	O
+pa:ਗਿਆ।	O
+
+pa:'	O
+pa:''	O
+pa:ਕੈਨੇਡਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੰਤਰੀ	B-ORG
+pa:(	I-ORG
+pa:ਰੰਗ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜ਼ੁਲਫਿਕਾਰ	B-PER
+pa:ਅਲੀ	I-PER
+pa:ਭੁੱਟੋ	I-PER
+
+pa:ਇਰਾਕ	B-LOC
+pa:,	O
+pa:ਜਾਰਡਨ	B-LOC
+pa:ਅਤੇ	O
+pa:ਸੀਰੀਆ	B-LOC
+
+pa:ਮਿਆਂਮਾਰ	B-ORG
+pa:(	O
+pa:MYA	O
+pa:)	O
+pa:‡	O
+
+pa:'	O
+pa:''	O
+pa:ਕੁਤਬ	B-ORG
+pa:ਮੀਨਾਰ	I-ORG
+pa:''	O
+pa:'	O
+
+pa:ਅਮਾਨ	B-LOC
+pa:(	O
+pa:'	O
+pa:''	O
+pa:'	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਿਮੋਨ	B-PER
+pa:ਦ	I-PER
+pa:ਬੋਵੁਆਰ	I-PER
+
+pa:ਉੱਤਰ	B-LOC
+pa:ਪ੍ਰਦੇਸ਼	I-LOC
+pa:(	O
+pa:19	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਟਕ	B-ORG
+pa:–	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਲਾਈਟਰ	I-ORG
+pa:ਸਾਈਡ	I-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਲਾਈਫ਼	I-ORG
+
+pa:ਤਖ਼ਤ	B-LOC
+pa:ਸ੍ਰੀ	I-LOC
+pa:ਦਮਦਮਾ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+
+pa:ਜ਼ਿਆਦਾਤਰ	O
+pa:ਪਹਾੜੀ	O
+pa:ਇਲਾਕਿਆਂ	O
+pa:ਦੀ	O
+pa:ਗਿਣਤੀ	O
+pa:ਏਸ਼ੀਆ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਹੈ।	O
+
+pa:ਸ਼ਹੀਦ	B-LOC
+pa:ਭਗਤ	I-LOC
+pa:ਸਿੰਘ	I-LOC
+pa:ਨਗਰ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:''	O
+pa:ਰੋਇਅਲ	B-ORG
+pa:ਚੈਲਿੰਜਰਜ਼	I-ORG
+pa:ਬੰਗਲੌਰ	I-ORG
+pa:''	O
+pa:'	O
+
+pa:ਸਾਊਦੀ	B-LOC
+pa:ਅਰਬ	I-LOC
+pa:ਨੂੰ	O
+pa:੧੩	O
+pa:ਸੂਬਿਆਂ	O
+pa:(	O
+pa:;	O
+pa:''ਮਨਾਤਿਕ	O
+pa:ਇਦਾਰੀਆ	O
+pa:''	O
+pa:,	O
+pa:ਇੱਕ-ਵਚਨ	O
+pa:.	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਜਾਇਬਘਰਾਂ	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਕੌਮਾਂਤਰੀ	I-ORG
+pa:ਸਭਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਹਾਦੁਰ	B-PER
+pa:ਸ਼ਾਹ	I-PER
+pa:ਜ਼ਫ਼ਰ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਮਰੀਕਾ	B-LOC
+pa:(	I-LOC
+pa:ਮਹਾਂ-ਮਹਾਂਦੀਪ	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਯੂਨੀਟੈੱਕ	B-ORG
+pa:ਇੰਸਟੀਚਿਊਟ	I-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਟੈਕਨਾਲੋਜੀ	I-ORG
+
+pa:*ਸੰਨ	O
+pa:2013	O
+pa:’ਚ	O
+pa:ਅਜੈ	B-PER
+pa:ਦੇਵਗਨ	I-PER
+pa:ਅਤੇ	O
+pa:ਕਈ	O
+pa:ਹੋਰ	O
+pa:ਸਿਤਾਰਿਆਂ	O
+pa:ਨੇ	O
+pa:ਇਸ	O
+pa:ਦੀ	O
+pa:ਮਹੱਤਤਾ	O
+pa:ਨੂੰ	O
+pa:ਦੇਖਦੇ	O
+pa:ਹੋਏ	O
+pa:ਸਮਰਥਨ	O
+pa:ਦਿੱਤਾ।	O
+
+pa:ਸਾਓ	B-LOC
+pa:ਤੋਮੇ	I-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਪ੍ਰਿੰਸੀਪੀ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜੇਮਜ਼	B-PER
+pa:ਕਲਰਕ	I-PER
+pa:ਮੈਕਸਵੈੱਲ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੁਸਰਤ	B-PER
+pa:ਫ਼ਤਿਹ	I-PER
+pa:ਅਲੀ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਬਰਾਕ	B-PER
+pa:ਓਬਾਮਾ	I-PER
+pa:''	O
+pa:'	O
+pa:(	O
+pa:b.1961	O
+pa:)	O
+
+pa:ਗੁਰੂ	B-PER
+pa:ਹਰਿਰਾਇ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਆਨਾ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਚੈਪਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੰਸਾਰ	B-ORG
+pa:ਜਲਗਾਹ	I-ORG
+pa:ਦਿਹਾੜਾ	I-ORG
+
+pa:ਗੁਰੂ	B-PER
+pa:ਅੰਗਦ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:ਭਾਰਤੀ	B-ORG
+pa:ਕਮਿਊਨਿਸਟ	I-ORG
+pa:ਪਾਰਟੀ	I-ORG
+pa:(	I-ORG
+pa:ਮਾਰਕਸਵਾਦੀ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਕੀਤੇਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗਾਰਾਖ਼ੋਨਾਈ	B-ORG
+pa:ਕੌਮੀ	I-ORG
+pa:ਪਾਰਕ	I-ORG
+
+pa:ਗੁਜਰਾਤ	B-LOC
+pa:,	O
+pa:ਰਾਜਸਥਾਨ	B-LOC
+pa:,	O
+pa:ਉੱਤਰਾਖੰਡ	B-LOC
+pa:,	O
+pa:ਹਿਮਾਚਲ	B-LOC
+pa:ਪ੍ਰਦੇਸ਼	I-LOC
+pa:ਤੇ	O
+pa:ਦਿੱਲੀ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਭਾਜਪਾ	O
+pa:ਸਾਰੀਆਂ	O
+pa:ਸੀਟਾਂ	O
+pa:ਤੇ	O
+pa:ਜਿਤ	O
+pa:ਪ੍ਰਾਪਤ	O
+pa:ਕੀਤੀ।	O
+
+pa:ਜਿਲ੍ਹੇ	O
+pa:ਦਾ	O
+pa:ਮੁੱਖਆਲਾ	O
+pa:ਉਧਮਪੁਰ	B-LOC
+pa:ਹੈ	O
+pa:।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਯੂਨੀਵਰਸਿਟੀ	B-ORG
+pa:ਗਰਾਂਟਸ	I-ORG
+pa:ਕਮਿਸ਼ਨ	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਪੂਰਬ	O
+pa:ਵੱਲ	O
+pa:ਅਤੇ	O
+pa:ਸੇਂਟ	B-LOC
+pa:ਪੀਟਰਸਬਰਗ	I-LOC
+pa:,	O
+pa:ਰੂਸ	B-LOC
+pa:ਤੋਂ	O
+pa:੩੦੦	O
+pa:ਕਿ.ਮੀ	O
+pa:.	O
+
+pa:'	O
+pa:''	O
+pa:ਲਾਲ	B-LOC
+pa:ਕਿਲਾ	I-LOC
+pa:''	O
+pa:'	O
+
+pa:ਜਿੰਨ	B-LOC
+pa:ਰਾਜਵੰਸ਼	I-LOC
+pa:(	I-LOC
+pa:1115–1234	I-LOC
+pa:)	I-LOC
+
+pa:''	O
+pa:ਮੁਖੌਟਾ	O
+pa:''	O
+pa:(	O
+pa:ਐਂਤਨ	B-PER
+pa:ਚੈਖਵ	I-PER
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਇਰਾਕ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਅਲ	I-LOC
+pa:ਸ਼ਾਮ	I-LOC
+pa:ਵਿੱਚ	I-LOC
+pa:ਇਸਲਾਮੀ	I-LOC
+pa:ਰਾਜ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਿਰੌਂਦੈਂ	B-ORG
+pa:ਦੇ	I-ORG
+pa:ਬੋਰਦੋ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਤਿੰਬਕਤੂ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੋਤੀ	B-ORG
+pa:ਬਾਗ਼	I-ORG
+pa:ਮਹਿਲ	I-ORG
+
+pa:ਸਿਮੀ	B-PER
+pa:ਗਰੇਵਾਲ	I-PER
+pa:-	O
+pa:ਮਰੀਅਮ	O
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਮਾਨਸਾ	B-LOC
+
+pa:ਭਾਰਤੀ	B-ORG
+pa:ਕਮਿਊਨਿਸਟ	I-ORG
+pa:ਪਾਰਟੀ	I-ORG
+pa:(	I-ORG
+pa:ਮਾਰਕਸਵਾਦੀ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਹਿਮਦ	B-PER
+pa:ਰਜ਼ਾ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੁਹੰਮਦ	B-PER
+pa:ਰਜ਼ਾ	I-PER
+pa:ਪਹਿਲਵੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮੀ	B-LOC
+pa:ਖੇਤੀ	I-LOC
+pa:ਤੇ	I-LOC
+pa:ਪੇਂਡੂ	I-LOC
+pa:ਵਿਕਾਸ	I-LOC
+pa:ਬੈਂਕ	I-LOC
+
+pa:ਰੀਗਾ	B-LOC
+pa:(	O
+pa:Rīga	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਨਿਕੋਲਾਸ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਬੀਯੋਰੀਆ	I-ORG
+pa:)	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਸ੍ਰੀਨਗਰ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਬਰਤਾਨਵੀ	B-LOC
+pa:ਵਰਜਿਨ	I-LOC
+pa:ਟਾਪੂ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਲੀਬਾਬਾ	B-ORG
+pa:ਔਰ	I-ORG
+pa:40	I-ORG
+pa:ਚੋਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖ਼ੁਦੀ	B-PER
+pa:ਰਾਮ	I-PER
+pa:ਬੋਸ	I-PER
+
+pa:ਭੂ-ਮੱਧ	B-LOC
+pa:ਰੇਖਾਈ	I-LOC
+pa:ਗਿਨੀ	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਹਾਈਨਰਿਸ਼	B-PER
+pa:ਬਲ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਰਾਇਪੁਰ	B-LOC
+pa:,	I-LOC
+pa:ਮਾਨਸਾ	I-LOC
+
+pa:ਸੁਖ਼ਨਾ	B-LOC
+pa:ਝੀਲ	I-LOC
+pa:,	O
+pa:ਚੰਡੀਗੜ੍ਹ	B-LOC
+pa:,	O
+pa:ਭਾਰਤ	B-LOC
+
+pa:ਚੰਡੀਗੜ੍ਹ	B-LOC
+pa:ਤੋਂ	O
+pa:ਦੂਰੀ:160nbsp	O
+pa:;	O
+pa:ਕਿਮੀ	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਬਦੁਲ	B-PER
+pa:ਹਲੀਮ	I-PER
+pa:ਸ਼ਰਰ	I-PER
+
+pa:ਆਲ	B-ORG
+pa:ਇੰਡੀਆ	I-ORG
+pa:ਸਟੂਡੈਂਟਸ	I-ORG
+pa:ਫੈਡਰੇਸ਼ਨ	I-ORG
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੂਰਬੀ	B-LOC
+pa:ਸਾਈਬੇਰੀਆਈ	I-LOC
+pa:ਸਮੁੰਦਰ	I-LOC
+
+pa:ਉਸ	O
+pa:ਨੇ	O
+pa:ਕਰਾਚੀ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਦਫ਼ਨਾਇਆ	O
+pa:ਗਿਆ	O
+pa:.	O
+
+pa:ਸਿਟੀ	B-ORG
+pa:ਪੈਲੇਸ	I-ORG
+pa:,	I-ORG
+pa:ਜੈਪੁਰ	I-ORG
+
+pa:ਯੋਹਾਨ	B-PER
+pa:ਵੁਲਫਗੰਗ	I-PER
+pa:ਫਾਨ	I-PER
+pa:ਗੇਟੇ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਲਕਾਲਾ	B-ORG
+pa:ਦੇ	I-ORG
+pa:ਲੌਸ	I-ORG
+pa:ਗਾਥੂਲੇਸ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਕਿਲਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਖ਼ੁਆਨ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਸਾਲਵਾਤੀਏਰਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਿਜਲੀਪੁਰ	B-LOC
+pa:,	I-LOC
+pa:ਪੰਜਾਬ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪ੍ਰੋਫ਼ੈਸਰ	B-PER
+pa:ਮੋਹਨ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਗਿਆਨੀ	B-PER
+pa:ਜ਼ੈਲ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:(	O
+pa:1916–1994	O
+pa:)	O
+
+pa:Wrestling	B-ORG
+pa:at	I-ORG
+pa:the	I-ORG
+pa:2008	I-ORG
+pa:Summer	I-ORG
+pa:Olympics	I-ORG
+pa:–	I-ORG
+pa:Men	I-ORG
+pa:'s	I-ORG
+pa:freestyle	I-ORG
+pa:66	I-ORG
+pa:kg	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਰਾਨਖ਼ੁਇਸ	B-LOC
+pa:ਦਾ	I-LOC
+pa:ਸ਼ਾਹੀ	I-LOC
+pa:ਮਹਿਲ	I-LOC
+
+pa:ਟਰੂ	B-ORG
+pa:ਜੀਸਸ	I-ORG
+pa:ਚਰਚ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮਾਂਤਰੀ	B-ORG
+pa:ਮਾਲੀ	I-ORG
+pa:ਫੰਡ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਾਬਾ	B-ORG
+pa:ਫਰੀਦ	I-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਹੈਲਥ	I-ORG
+pa:ਸਾਇੰਸਿਜ਼	I-ORG
+
+pa:ਮਨੁੱਖੀ	B-ORG
+pa:ਵਿਕਾਸ	I-ORG
+pa:ਸੂਚਕ	I-ORG
+pa:(	O
+pa:2003	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਪੇਦਰੋ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਖ਼ਾਕਾ	I-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਸੇਲਮਾ	B-PER
+pa:ਲਾਗੇਰਲੋਫ਼	I-PER
+pa:ਜਾਂਨੀ	O
+pa:Lagerlof	O
+pa:Selma	O
+
+pa:ਦੰਦ	B-LOC
+pa:ਖੰਡ	I-LOC
+pa:ਤਟ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਬਿੰਦਰ	B-PER
+pa:ਨਾਥ	I-PER
+pa:ਟੈਗੋਰ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਹਾਂਸ	B-PER
+pa:ਕ੍ਰਿਸਚਨ	I-PER
+pa:ਆਂਡਰਸਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਉਸਤਾਦ	B-PER
+pa:ਅਮਾਨਤ	I-PER
+pa:ਅਲੀ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਡਫ਼ਰਿਨ-ਪੀਲ	B-LOC
+pa:ਕੈਥੋਲਿਕ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+pa:ਸਕੂਲ	I-LOC
+pa:ਬੋਰਡ	I-LOC
+
+pa:ਸੇਰਗੇਈ	B-PER
+pa:ਬੋਂਦਾਰਚੁਕ	I-PER
+pa:-	O
+pa:ਬੋਰਿਸ	B-PER
+pa:ਗੋਦੂਨੋਵ	I-PER
+
+pa:ਸੋਵੀਅਤ	B-ORG
+pa:ਯੂਨੀਅਨ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਕਮਿਊਨਿਸਟ	I-ORG
+pa:ਪਾਰਟੀ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਰਮਾਇਆ	B-ORG
+pa:(	I-ORG
+pa:ਕਿਤਾਬ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਰਮਾਇਆ	B-ORG
+pa:(	I-ORG
+pa:ਕਿਤਾਬ	I-ORG
+pa:)	I-ORG
+
+pa:ਆਰ	B-PER
+pa:ਕੇ	I-PER
+pa:ਨਰਾਇਣ	I-PER
+pa:ਦਾ	O
+pa:ਰਚਿਆ	O
+pa:ਨਾਵਲ।	O
+
+pa:ਮਾਇਆ	B-PER
+pa:ਅਲੀ	I-PER
+pa:(	O
+pa:ਫਰਾਹ	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਨਿਕੋਲਾਸ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਆਬੀਲੇਸ	I-ORG
+pa:)	I-ORG
+
+pa:ਜਿਲ੍ਹੇ	O
+pa:ਦਾ	O
+pa:ਮੁੱਖਆਲਾ	O
+pa:ਅਹਿਮਦਨਗਰ	B-LOC
+pa:ਹੈ।	O
+
+pa:ਜਾਨ	B-PER
+pa:ਬੋਡੂਆਇਨ	I-PER
+pa:ਡੇ	I-PER
+pa:ਕੂਰਟਨੇ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਮੋਰਾ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਸਰਵੇਪੱਲੀ	B-PER
+pa:ਰਾਧਾਕ੍ਰਿਸ਼ਣਨ	I-PER
+pa:(	O
+pa:1888–1975	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਆਂਦਰੇਸ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਬੇਦਰੀਞਾਨਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲੌਫ਼ਟਸ	B-ORG
+pa:ਰੋਡ	I-ORG
+pa:ਸਟੇਡੀਅਮ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਿਸਬਨ	B-LOC
+pa:,	I-LOC
+pa:ਓਹਾਇਓ	I-LOC
+
+pa:ਅਮਰੀਕਾ	B-LOC
+pa:(	I-LOC
+pa:ਮਹਾਂ-ਮਹਾਂਦੀਪ	I-LOC
+pa:)	I-LOC
+
+pa:8	O
+pa:-	O
+pa:ਬਿਹਾਰ	B-LOC
+pa:,	O
+pa:ਝਾਰਖੰਡ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਫ਼ਰੀਕੀ	B-ORG
+pa:ਨੈਸ਼ਨਲ	I-ORG
+pa:ਕਾਂਗਰਸ	I-ORG
+
+pa:ਨੱਥੋਵਾਲ਼	O
+pa:,	O
+pa:ਜ਼ਿਲ੍ਹਾ	B-LOC
+pa:ਲੁਧਿਆਣਾ	I-LOC
+
+pa:ਏਪੀਸੋਡ	O
+pa:''ਘੁਟਨ	O
+pa:''	O
+pa:ਏਪੀਸੋਡ	O
+pa:''ਤੁਮ	O
+pa:ਔਰਤ	O
+pa:ਮੈਂ	O
+pa:ਮਰਦ	O
+pa:''	O
+pa:,	O
+pa:ਹਮ	B-ORG
+pa:ਟੀਵੀ	I-ORG
+
+pa:ਸਨਮ	B-PER
+pa:ਬਲੋਚ	I-PER
+pa:Best	O
+pa:Actress	O
+pa:ਲਈ	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪ੍ਰੋਫ਼ੈਸਰ	B-PER
+pa:ਮੋਹਨ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਸਾਹਿਰ	B-PER
+pa:(	O
+pa:1921-1980	O
+pa:)	O
+
+pa:ਸਹਿਰਾਵੀ	B-LOC
+pa:ਅਰਬ	I-LOC
+pa:ਲੋਕਤੰਤਰੀ	I-LOC
+pa:ਗਣਰਾਜ	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਮੈਂ	B-ORG
+pa:ਨਾਸਤਿਕ	I-ORG
+pa:ਕਿਉਂ	I-ORG
+pa:ਹਾਂ	I-ORG
+pa:''	O
+pa:'	O
+pa:''	O
+
+pa:ਭਾਰਤ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਵੰਡ	I-LOC
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਇੰਡੀਅਨ	B-ORG
+pa:ਨੈਸ਼ਨਲ	I-ORG
+pa:ਕਾਂਗਰਸ	I-ORG
+
+pa:''BJP	O
+pa:''	O
+pa:ਭਾਰਤੀ	B-ORG
+pa:ਜਨਤਾ	I-ORG
+pa:ਪਾਰਟੀ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜੁਪੀਟਰ	B-PER
+pa:(	I-PER
+pa:ਮਿਥਿਹਾਸ	I-PER
+pa:)	I-PER
+
+pa:ਜੱਦਾ	B-LOC
+pa:(	O
+pa:جدة	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜੇਮਜ਼	B-PER
+pa:ਕਲਰਕ	I-PER
+pa:ਮੈਕਸਵੈੱਲ	I-PER
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼-ਬਲਾਈਂਡ	I-ORG
+
+pa:ਓਮ	B-PER
+pa:ਪੁਰੀ	I-PER
+pa:-ਜੱਸੂ	O
+pa:ਕਾਕਾ	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਹਾਮਬੁਰਗਾ	B-ORG
+pa:ਐੱਸ.ਫ਼ਾਓ	I-ORG
+pa:.	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਫ਼ਰਦੀਨਾ	B-PER
+pa:ਦ	I-PER
+pa:ਸੌਸਿਊਰ	I-PER
+
+pa:ਖੰਭਾਤ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਖਾੜੀ	I-LOC
+
+pa:ਪਖਾਉਜ	O
+pa:(	O
+pa:ਲਖਨਊ	B-LOC
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਸੈਮੂਅਲ	B-PER
+pa:ਬੈਕਟ	I-PER
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:ਸਾਲਵਾਤੋਰੇ	B-PER
+pa:ਕੁਆਸੀਮੋਦੋ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਫ਼ਤਹਿਗੜ੍ਹ	B-LOC
+pa:ਸਾਹਿਬ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਤੱਤੇ	B-ORG
+pa:ਖੱਬਿਆਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਕੋਲੀਸ਼ਨ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਾਈਆਨ	B-ORG
+pa:ਮੁਨਸ਼ਨ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਾਮ	B-PER
+pa:ਗੋਪਾਲ	I-PER
+pa:ਵਰਮਾ	I-PER
+
+pa:ਫਰੈਡਰਿਕ	B-PER
+pa:ਉਪਹਾਮ	I-PER
+pa:ਐਡਮਸ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਮੀਗੇਲ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਮੱਠ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਬਲਾਈਂਡ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜੰਦਰਿਆਂ	B-ORG
+pa:ਵਾਲਾ	I-ORG
+pa:ਪੁੱਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਾਵਲੋਦਾਰ	B-LOC
+pa:(	I-LOC
+pa:ਪ੍ਰਾਂਤ	I-LOC
+pa:)	I-LOC
+
+pa:ਪ੍ਰਧਾਨ	B-PER
+pa:ਮੰਤਰੀ	I-PER
+pa:ਔਗਸਟਿਨ	O
+pa:ਮਤਾਤਾ	O
+pa:ਪੋਨਯੋ	O
+
+pa:ਭਾਰਤ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਵੰਡ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੀਲ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਖੇਤਰੀ	I-LOC
+pa:ਨਗਰਪਾਲਿਕਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਐਸਟਨ	B-ORG
+pa:ਵਿਲਾ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਐਰਮੋ	I-ORG
+pa:ਮੱਠ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੁਹੰਮਦ	B-PER
+pa:ਬਿਨ	I-PER
+pa:ਤੁਗ਼ਲਕ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਭਾਰਤ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਤਖ਼ਤ	B-LOC
+pa:ਸ੍ਰੀ	I-LOC
+pa:ਕੇਸਗੜ੍ਹ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+
+pa:**	O
+pa:ਫਲਕ	B-PER
+pa:ਸ਼ਬੀਰ	I-PER
+pa:-	O
+pa:ਇਜ਼ਾਜ਼ਤ	O
+
+pa:ਅਲੁਕਸਨ	B-LOC
+pa:(	O
+pa:Alūksne	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰੱਲਾ	B-LOC
+pa:,	I-LOC
+pa:ਪੰਜਾਬ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗ੍ਰਾਸਹੌਪਰ	B-ORG
+pa:ਕਲੱਬ	I-ORG
+pa:ਜ਼ਿਊਰਿਖ	I-ORG
+
+pa:ਪੁਰਤਗਾਲ	B-LOC
+pa:ਨਾਲ	O
+pa:ਸੰਬੰਧਿਤ	O
+pa:ਕੋਈ	O
+pa:ਚੀਜ਼	O
+
+pa:ਇੰਡੀਅਨ	B-ORG
+pa:ਪ੍ਰੀਮੀਅਰ	I-ORG
+pa:ਲੀਗ	I-ORG
+
+pa:ਤਖ਼ਤ	B-LOC
+pa:ਸ੍ਰੀ	I-LOC
+pa:ਦਮਦਮਾ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤੋ	B-ORG
+pa:ਦੋਮਿੰਗੋ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਸੀਲੌਸ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਦਿੱਲੀ	B-ORG
+pa:ਡੇਅਰਡੈਵਿਲਜ਼	I-ORG
+pa:''	O
+pa:'	O
+
+pa:ਸਾਹਿਬਜ਼ਾਦਾ	B-PER
+pa:ਜ਼ੋਰਾਵਰ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਕਲੰਬਸ	B-LOC
+pa:,	I-LOC
+pa:ਓਹਾਇਓ	I-LOC
+
+pa:ਕੁਆਂਟਮ	B-ORG
+pa:ਮਕੈਨਿਕਸ	I-ORG
+pa:ਦੀਆਂ	I-ORG
+pa:ਵਿਆਖਿਆਵਾਂ	I-ORG
+
+pa:ਤਖ਼ਤ	B-LOC
+pa:ਸ੍ਰੀ	I-LOC
+pa:ਹਜ਼ੂਰ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+
+pa:ਮਕਾਉ	B-LOC
+pa:(	O
+pa:MAC	O
+pa:)	O
+pa:‡†	O
+
+pa:ਪ੍ਰਧਾਨ	B-PER
+pa:ਮੰਤਰੀ	I-PER
+pa:ਰਸਪ	O
+pa:ਤਾਯੀਪ	O
+pa:ਏਰਦੋਗਾਨ	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੂਰ	B-PER
+pa:ਇਨਾਇਤ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਬਿੱਗ	B-ORG
+pa:ਬੌਸ	I-ORG
+pa:(	I-ORG
+pa:ਸੀਜ਼ਨ	I-ORG
+pa:9	I-ORG
+pa:)	I-ORG
+pa:''	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵੋਲਫ਼ਗਾਂਗ	B-PER
+pa:ਆਮਾਡੇਅਸ	I-PER
+pa:ਮੋਜ਼ਾਰਟ	I-PER
+
+pa:ਸਿਟੀ	B-ORG
+pa:ਪੈਲੇਸ	I-ORG
+pa:,	I-ORG
+pa:ਉਦੈਪੁਰ	I-ORG
+
+pa:ਸਾਂਚੀ	B-ORG
+pa:ਸਿਖਰ	O
+pa:ਦਾਨਲੇਖਾਂ	O
+pa:ਵਿੱਚ	O
+pa:,	O
+pa:ਜਿਨ੍ਹਾਂ	O
+pa:ਦਾ	O
+pa:ਸਮਾਂ	O
+
+pa:ਅੰਡੇਮਾਨ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਨਿਕੋਬਾਰ	I-LOC
+pa:ਟਾਪੂ	I-LOC
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਬਲਾਈਂਡ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਾਣੀਪਤ	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਪਹਿਲੀ	I-ORG
+pa:ਲੜਾਈ	I-ORG
+
+pa:**	O
+pa:Baghdadi	O
+pa:Jews	O
+pa:(	O
+pa:Arab	O
+pa:Jews	O
+pa:in	O
+pa:Bengal	B-LOC
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਕੋਲਕਾਤਾ	B-LOC
+pa:'	O
+pa:''	O
+
+pa:ਮਹੰਤ	B-ORG
+pa:ਗੁਰਬੰਤਾ	I-ORG
+pa:ਦਾਸ	I-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਡੈੱਫ਼	I-ORG
+pa:&	I-ORG
+pa:ਡਮ	I-ORG
+
+pa:ਸਾਓ	B-LOC
+pa:ਤੋਮੇ	I-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਪ੍ਰਿੰਸੀਪੀ	I-LOC
+
+pa:ਮਹਿੰਦਰ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਧੋਨੀ	I-PER
+pa:(	O
+pa:c	O
+pa:)	O
+pa:(	O
+pa:wk	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਾਦ	B-ORG
+pa:ਓਗੂਸਤ	I-ORG
+pa:ਦੇਲੌਨ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਾਦ	B-LOC
+pa:ਪੀਐਖ਼	I-LOC
+pa:ਮੋਖ਼ਵਾ	I-LOC
+
+pa:ਡਫ਼ਰਿਨ-ਪੀਲ	B-LOC
+pa:ਕੈਥੋਲਿਕ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+pa:ਸਕੂਲ	I-LOC
+pa:ਬੋਰਡ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਪੋਰਤਿੰਗ	B-ORG
+pa:ਕਲੂਬੇ	I-ORG
+pa:ਡੀ	I-ORG
+pa:ਪੁਰਤਗਾਲ	I-ORG
+
+pa:ਲਾ	B-ORG
+pa:ਮੋਤਾ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਕਿਲਾ	I-ORG
+
+pa:ਪੰਜਾਬ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਸਿੱਖਿਆ	I-ORG
+pa:ਬੋਰਡ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਡਾ.	B-PER
+pa:ਰਾਜੇਂਦਰ	I-PER
+pa:ਪ੍ਰਸਾਦ	I-PER
+
+pa:ਪੰਜਾਬ	B-LOC
+pa:,	I-LOC
+pa:ਪਾਕਿਸਤਾਨ	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਚੇਨਈ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਜਿਲ੍ਹੇ	O
+pa:ਦਾ	O
+pa:ਮੁੱਖਆਲਾ	O
+pa:ਅਕੋਲਾ	B-LOC
+pa:ਹੈ।	O
+
+pa:੨੦੦੮	B-ORG
+pa:ਓਲੰਪਿਕ	I-ORG
+pa:ਖੇਡਾਂ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਵਿੱਚ	I-ORG
+pa:ਕੁਸ਼ਤੀ	I-ORG
+pa:–	I-ORG
+pa:ਪੁਰਸ਼ਾਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਗ੍ਰੈਕੋ-ਰੋਮਨ	I-ORG
+pa:੬੬	I-ORG
+pa:ਕਿਲੋਗਰਾਮ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਇਗਲੇਸੀਆ	B-ORG
+pa:ਦੇ	I-ORG
+pa:ਸਾਨ	I-ORG
+pa:ਖ਼ੁਆਨ	I-ORG
+pa:(	I-ORG
+pa:ਪ੍ਰੀਓਰੀਓ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਥੇਰੇਸ	B-LOC
+pa:,	I-LOC
+pa:ਸਪੇਨ	I-LOC
+
+pa:ਵਿਲੀਅਮ	B-PER
+pa:ਜੋਨਸ	I-PER
+pa:(	O
+pa:1746-1794	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਈਦ	B-PER
+pa:ਅਖ਼ਤਰ	I-PER
+pa:ਮਿਰਜ਼ਾ	I-PER
+
+pa:ਬਗ਼ਦਾਦ	B-LOC
+pa:(	O
+pa:'	O
+pa:''	O
+pa:'	O
+pa:)	O
+
+pa:ਪ੍ਰਕਾਸ਼	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਬਦਲਣਯੋਗ	I-ORG
+pa:ਸਪੀਡ	I-ORG
+
+pa:ਇਰਾਕ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਅਲ	I-LOC
+pa:ਸ਼ਾਮ	I-LOC
+pa:ਵਿੱਚ	I-LOC
+pa:ਇਸਲਾਮੀ	I-LOC
+pa:ਰਾਜ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਰੈਂਟਫ਼ੋਰਡ	B-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਭਾਰਤ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਉੱਤਰੀ	B-LOC
+pa:ਕਜ਼ਾਖ਼ਿਸਤਾਨ	I-LOC
+pa:ਸੂਬਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖ਼ੋਆਨ	B-ORG
+pa:ਮੀਰੋ	I-ORG
+pa:ਸੰਸਥਾ	I-ORG
+
+pa:ਸ਼੍ਰੋਮਣੀ	B-ORG
+pa:ਗੁਰਦੁਆਰਾ	I-ORG
+pa:ਪ੍ਰਬੰਧਕ	I-ORG
+pa:ਕਮੇਟੀ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਉਸਤਾਦ	B-PER
+pa:ਅਮਾਨਤ	I-PER
+pa:ਅਲੀ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮੀ	B-ORG
+pa:ਮਨੁੱਖੀ	I-ORG
+pa:ਹੱਕ	I-ORG
+pa:ਕਮਿਸ਼ਨ	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਗੁਜਰਾਤ	B-LOC
+pa:(	I-LOC
+pa:ਪਾਕਿਸਤਾਨ	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਲਾਥਾ	B-ORG
+pa:ਦੇ	I-ORG
+pa:ਤੋਰੋਸ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਐੱਲ	I-ORG
+pa:ਬੀਬੀਓ	I-ORG
+
+pa:ਸੇਂਟ	B-LOC
+pa:ਲਾਰੰਸ	I-LOC
+pa:ਦੀ	I-LOC
+pa:ਖਾੜੀ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੀਨੀਓ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਗੁਫ਼ਾ	I-LOC
+
+pa:''	O
+pa:ਪੂਰਨ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:''	O
+pa:(	O
+pa:2004	O
+pa:)	O
+
+pa:ਪੰਜਾਬ	B-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:,	I-ORG
+pa:ਲਹੌਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਰਤਾਰ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਝੱਬਰ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬੇਸਾਈਡ	B-ORG
+pa:ਕਾਮਪਰੇਹੈਂਸਿਵ	I-ORG
+pa:ਸਕੂਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:2014	B-PER
+pa:ਏਸ਼ੀਆਈ	I-PER
+pa:ਖੇਡਾਂ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਮਰੀਕਾ	B-LOC
+pa:(	I-LOC
+pa:ਮਹਾਂ-ਮਹਾਂਦੀਪ	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਚੌਧਰੀ	B-PER
+pa:ਚਰਨ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਔਚ.	B-PER
+pa:ਜੀ.	I-PER
+pa:ਦੇਵ	I-PER
+pa:ਗੌੜਾ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਡਰਬੀ	B-ORG
+pa:ਕਾਊਂਟੀ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤੀਆਗੋ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਅਹਿਮਦਾਬਾਦ	B-LOC
+pa:(	O
+pa:1961–1963	O
+pa:)	O
+pa:ਪਣਜੀ	B-LOC
+pa:(	O
+pa:1963–1987	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਾਦ	B-ORG
+pa:ਦ	I-ORG
+pa:ਖ਼ਾਂਸ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗੁਰੂ	B-PER
+pa:ਤੇਗ	I-PER
+pa:ਬਹਾਦਰ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਕੀਨੋਮੋਤੋ	B-PER
+pa:ਨੋ	I-PER
+pa:ਹਿਤੋਮਾਰੋ	I-PER
+
+pa:ਜਾਨ	B-PER
+pa:ਬੋਡੂਆਇਨ	I-PER
+pa:ਡੇ	I-PER
+pa:ਕੂਰਟਨੇ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੀ	B-PER
+pa:ਸੀ	I-PER
+pa:ਮਹਾਲਨੋਬਿਸ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਿਬਰੇਸ਼ਨ	B-ORG
+pa:ਟਾਈਗਰਜ਼	I-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਤਾਮਿਲ	I-ORG
+pa:ਈਲਮ	I-ORG
+
+pa:ਕੁਵੈਤ	B-LOC
+pa:ਸ਼ਹਿਰ	I-LOC
+pa:(	O
+pa:'	O
+pa:''	O
+pa:'	O
+pa:)	O
+
+pa:ਕਾਂਗੋ	B-LOC
+pa:ਲੋਕਤੰਤਰੀ	I-LOC
+pa:ਗਣਰਾਜ	I-LOC
+
+pa:ਆਰ	B-PER
+pa:ਕੇ	I-PER
+pa:ਨਰਾਇਣ	I-PER
+pa:ਦਾ	O
+pa:ਰਚਿਆ	O
+pa:ਨਾਵਲ।	O
+
+pa:﻿ਉਸਤਾਦ	B-PER
+pa:ਬੜੇ	I-PER
+pa:ਫ਼ਤਿਹ	I-PER
+pa:ਅਲੀ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਿਓਨਾਰਦੋ	B-PER
+pa:ਦਾ	I-PER
+pa:ਵਿੰਚੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਾਰਜ	B-PER
+pa:ਬਰਨਾਰਡ	I-PER
+pa:ਸ਼ਾਅ	I-PER
+
+pa:ਮੁਨੀਰ	B-PER
+pa:ਨਿਆਜ਼ੀ	I-PER
+pa:(	O
+pa:1928-2006	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਇੰਡੀਅਨ	B-ORG
+pa:ਕੌਫ਼ੀ	I-ORG
+pa:ਹਾਊਸ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜੋਸਫ	B-ORG
+pa:ਸਰਿਲ	I-ORG
+pa:ਬੈਮਫੋਰਡ	I-ORG
+
+pa:ਦ	B-ORG
+pa:ਵਾਲ	I-ORG
+pa:ਸਟਰੀਟ	I-ORG
+pa:ਜਰਨਲ	I-ORG
+
+pa:ਫ਼ਰਾਜ਼	B-PER
+pa:(	O
+pa:1931-2008	O
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਬੋਰਿਸ	B-PER
+pa:ਪਾਸਤਰਨਾਕ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਵਾਨਜ਼ੀ	B-ORG
+pa:ਸਿਟੀ	I-ORG
+pa:ਐਸੋਸੀਏਸ਼ਨ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਊਮਿਓ	B-ORG
+pa:ਸ਼ਹਿਰ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਗਿਰਜਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਿਉਲਾਦਿਉ	B-LOC
+pa:ਕੌਮੀ	I-LOC
+pa:ਪਾਰਕ	I-LOC
+
+pa:''	O
+pa:ਕਿੰਗਜ਼	B-ORG
+pa:XI	I-ORG
+pa:ਪੰਜਾਬ	I-ORG
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਾਮ	B-PER
+pa:ਪ੍ਰਸਾਦ	I-PER
+pa:ਬਿਸਮਿਲ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਜਪਾਨ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਅਕਰੋਤਿਰੀ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਧਕੇਲੀਆ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਨਾਮ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਭਮਰਾ	I-PER
+
+pa:ਸ਼ਹੀਦ	B-LOC
+pa:ਭਗਤ	I-LOC
+pa:ਸਿੰਘ	I-LOC
+pa:ਨਗਰ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੀਐਰ	B-PER
+pa:ਦ	I-PER
+pa:ਫ਼ੈਰਮਾ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦੱਖਣੀ	B-LOC
+pa:ਚੀਨ	I-LOC
+pa:ਸਮੁੰਦਰ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲੋਰੈਂਸੋ	B-PER
+pa:ਦੇ	I-PER
+pa:ਮੇਦੀਚੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਾਹਤ	B-PER
+pa:ਫ਼ਤਿਹ	I-PER
+pa:ਅਲੀ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਤੇਗੂਸੀਗਾਲਪਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਮੁੰਬਈ	B-LOC
+pa:(	O
+pa:1954–1961	O
+pa:)	O
+pa:ਪਣਜੀ	B-LOC
+pa:(	O
+pa:1961–1987	O
+pa:)	O
+
+pa:ਘੱਗਰ	B-LOC
+pa:ਹਕਰਾ	I-LOC
+pa:ਦਰਿਆ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਇੰਡੀਅਨ	B-ORG
+pa:ਨੈਸ਼ਨਲ	I-ORG
+pa:ਕਾਂਗਰਸ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਕੀਤੋ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਬਿੱਗ	B-ORG
+pa:ਬੌਸ	I-ORG
+pa:(	I-ORG
+pa:ਸੀਜ਼ਨ	I-ORG
+pa:9	I-ORG
+pa:)	I-ORG
+pa:''	O
+
+pa:'	O
+pa:''	O
+pa:ਮੁੰਬਈ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਵਾਹਰ	B-PER
+pa:ਲਾਲ	I-PER
+pa:ਨਹਿਰੂ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਏਸ਼ੀਆ	B-LOC
+pa:ਅਤੇ	O
+pa:ਓਸ਼ੇਨੀਆ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:[[ਨਸਤਾਲਿਕ	O
+pa:ਵਿੱਚ	O
+pa:ਗ਼ਾਲਿਬ	B-PER
+pa:''	O
+pa:']]	O
+
+pa:ਸਾਹਿਬਜ਼ਾਦਾ	B-PER
+pa:ਜ਼ੋਰਾਵਰ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦੱਖਣੀ	B-ORG
+pa:ਅਫ਼ਰੀਕੀ	I-ORG
+pa:ਕਮਿਊਨਿਸਟ	I-ORG
+pa:ਪਾਰਟੀ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾਈਟ	B-ORG
+pa:ਅੱਪ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਵਰਲਡ	I-ORG
+pa:ਫ਼ਾਊਂਡੇਸ਼ਨ	I-ORG
+
+pa:ਖ਼ਾਲਸਾ	B-ORG
+pa:ਕਾਲਜ	I-ORG
+pa:,	I-ORG
+pa:ਅੰਮ੍ਰਿਤਸਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਊਮਿਓ	B-ORG
+pa:ਟਾਊਨ	I-ORG
+pa:ਹਾਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਯੋਹਾਨ	B-PER
+pa:ਸੇਬਾਸਤੀਅਨ	I-PER
+pa:ਬਾਖ਼	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਿਮੋਨ	B-PER
+pa:ਦ	I-PER
+pa:ਬੋਵੁਆਰ	I-PER
+
+pa:ਗੁਰੂ	B-PER
+pa:ਗ੍ਰੰਥ	I-PER
+pa:ਸਾਹਿਬ	I-PER
+
+pa:ਤੁਰਕ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਕੇਕੋਸ	I-LOC
+pa:ਟਾਪੂ	I-LOC
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਲੁਧਿਆਣਾ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੀਟਰ	B-PER
+pa:ਪਾਲ	I-PER
+pa:ਰੂਬੇਨਜ਼	I-PER
+
+pa:ਸੈਮੂਅਲ	B-PER
+pa:ਟੇਲਰ	I-PER
+pa:ਕਾਲਰਿਜ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਸੂਰ	B-LOC
+pa:(	I-LOC
+pa:ਸ਼ਹਿਰ	I-LOC
+pa:)	I-LOC
+
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+pa:(	O
+pa:probably	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਾਣੀਪਤ	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਤੀਜੀ	I-ORG
+pa:ਲੜਾਈ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਰਸਨਲ	B-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਇਵਾਨ	B-PER
+pa:ਬੂਨਿਨ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਕੌਮਾਂਤਰੀ	B-ORG
+pa:ਇਕਾਈ	I-ORG
+pa:ਢਾਂਚਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਡਾ.	B-PER
+pa:ਰਾਜੇਂਦਰ	I-PER
+pa:ਪ੍ਰਸਾਦ	I-PER
+
+pa:ਮਾਸਕੋ	B-LOC
+pa:(	O
+pa:'	O
+pa:''	O
+pa:'	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਬਦੁਲ	B-PER
+pa:ਰਸ਼ੀਦ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੰਗੂ	B-PER
+pa:ਰਾਮ	I-PER
+pa:ਮੁਗੋਵਾਲੀਆ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਾਦ	B-ORG
+pa:ਦ	I-ORG
+pa:ਲਾ	I-ORG
+pa:ਬੋਜੁਆਖ਼	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਯੋਹਾਨ	B-PER
+pa:ਵੁਲਫਗੰਗ	I-PER
+pa:ਫਾਨ	I-PER
+pa:ਗੇਟੇ	I-PER
+
+pa:Someshvara	O
+pa:Temple	O
+pa:,	O
+pa:dedicated	O
+pa:to	O
+pa:God	O
+pa:Lord	O
+pa:Shiva	B-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਊਮਿਓ	B-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:ਲਾਇਬ੍ਰੇਰੀ	I-ORG
+
+pa:ਫ਼ਤਹਿਗੜ੍ਹ	B-LOC
+pa:ਸਾਹਿਬ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:Edinburgh	B-LOC
+pa:,	O
+pa:Scotland	B-LOC
+pa:(	O
+pa:2004	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਓਰੈਂਸੇ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਬਾਲੈਂਸੀਆ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਹਾਂਸ	B-PER
+pa:ਕ੍ਰਿਸਚਨ	I-PER
+pa:ਆਂਡਰਸਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵੋਲਫ਼ਗਾਂਗ	B-PER
+pa:ਆਮਾਡੇਅਸ	I-PER
+pa:ਮੋਜ਼ਾਰਟ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਫ਼ਿਰੋਜ	B-PER
+pa:ਸ਼ਾਹ	I-PER
+pa:ਤੁਗਲਕ	I-PER
+
+pa:ਅਫ਼ਰੀਕੀ-ਅਮਰੀਕੀ	B-ORG
+pa:ਨਾਗਰਿਕ	I-ORG
+pa:ਅਧਿਕਾਰ	I-ORG
+pa:ਅੰਦੋਲਨ	I-ORG
+pa:(	I-ORG
+pa:1954–68	I-ORG
+pa:)	I-ORG
+
+pa:ਮਦੀਨ	O
+pa:(	O
+pa:[[ਹੋਡਲ	O
+pa:,	O
+pa:ਭਾਰਤ	B-LOC
+pa:)	O
+pa:]]	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬੋਸਨੀਆ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਹਰਜ਼ੇਗੋਵੀਨਾ	I-LOC
+
+pa:ਮਾਇਆ	B-PER
+pa:ਅਲੀ	I-PER
+pa:(	O
+pa:ਅਹਮਰੀਨ	O
+pa:)	O
+
+pa:2005	O
+pa:ਦਾਦਾ	B-PER
+pa:ਸਾਹਿਬ	I-PER
+pa:ਫਾਲਕੇ	I-PER
+
+pa:ਝਗੜਦੇ	B-ORG
+pa:ਰਾਜਾਂ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਕਾਲ	I-ORG
+
+pa:ਤਖ਼ਤ	B-ORG
+pa:ਸ੍ਰੀ	I-ORG
+pa:ਪਟਨਾ	I-ORG
+pa:ਸਾਹਿਬ	I-ORG
+
+pa:ਰਾਸ਼ਟਰੀਆ	B-ORG
+pa:ਸਵੈਮ	I-ORG
+pa:ਸੇਵਕ	I-ORG
+pa:ਸੰਘ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਜੈਕੋਬਸ	B-PER
+pa:ਹੇਨਰੀਕਸ	I-PER
+pa:ਵਾਂਟ	I-PER
+pa:ਹਾਫ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਪੀਲ	B-LOC
+pa:ਡਿਸਟ੍ਰਿਕਟ	I-LOC
+pa:ਸਕੂਲ	I-LOC
+pa:ਬੋਰਡ	I-LOC
+
+pa:ਗੁਰੂ	B-PER
+pa:ਗ੍ਰੰਥ	I-PER
+pa:ਸਾਹਿਬ	I-PER
+
+pa:ਮਾਤਾਰਾਮ	B-ORG
+pa:ਰਾਜਵੰਸ਼	I-ORG
+pa:ਦਾ	O
+pa:ਸ਼ਾਸਕ	O
+pa:।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੈਲੇਸ	B-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਵੈਸਟਮਿੰਸਟਰ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਕਾਰਾਕਾਸ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:ਭਾਰਤ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਿਧਮ	B-ORG
+pa:ਢੋਲ	I-ORG
+pa:ਬੇਸ	I-ORG
+
+pa:ਕੁਲਡਿਗਾ	B-LOC
+pa:(	O
+pa:Kuldīga	O
+pa:)	O
+
+pa:ਕੀਆਰਾ	O
+pa:ਇਲੀਨਾਏ	B-LOC
+pa:ਦੀ	O
+pa:ਰਹਿਣ	O
+pa:ਵਾਲੀ	O
+pa:ਹੈ	O
+pa:।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਪੇਦਰੋ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਤੇਬੇਰਗਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਸੰਗਰੂਰ	B-ORG
+pa:(	I-ORG
+pa:ਲੋਕ	I-ORG
+pa:ਸਭਾ	I-ORG
+pa:ਚੋਣ-ਹਲਕਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਾਲੈਂਸੀਆ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੈਫ਼ੁਲ	B-LOC
+pa:ਮਲੂਕ	I-LOC
+pa:ਝੀਲ	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਗੁਆਤੇਮਾਲਾ	B-LOC
+pa:ਸ਼ਹਿਰ	I-LOC
+pa:''	O
+pa:'	O
+
+pa:ਪੰਜਾਬੀ	B-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:,	I-ORG
+pa:ਪਟਿਆਲਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਘੱਗਰ	B-LOC
+pa:ਹਕਰਾ	I-LOC
+pa:ਦਰਿਆ	I-LOC
+
+pa:7	B-LOC
+pa:ਜੂਨ	I-LOC
+pa:–	O
+pa:ਸਪੇਨ	B-LOC
+pa:ਤੇ	O
+pa:ਪੁਰਤਗਾਲ	B-LOC
+pa:ਨੇ	O
+pa:ਦੱਖਣੀ	B-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+pa:ਵਿੱਚ	O
+pa:ਨਵੇਂ	O
+pa:ਲੱਭੇ	O
+pa:ਮੁਲਕ	O
+pa:ਆਪਸ	O
+pa:ਵਿੱਚ	O
+pa:ਵੰਡ	O
+pa:ਲਏ।	O
+
+pa:ਦ੍ਰਿਸ਼	O
+pa:10	O
+pa:-	O
+pa:ਮਾਸਕੋ	B-LOC
+pa:,	O
+pa:ਸ਼ੂਈਸਕੀ	O
+pa:ਦਾ	O
+pa:ਘਰ	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਐਡਵਰਡ	B-PER
+pa:ਬੀ	I-PER
+pa:ਟਾਇਲਰ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾਲਨ	B-PER
+pa:ਸ਼ਾਹ	I-PER
+pa:ਫ਼ਕੀਰ	I-PER
+
+pa:ਪੁਲੰਦਾ	B-LOC
+pa:(	I-LOC
+pa:ਜੀਵ	I-LOC
+pa:ਵਿਗਿਆਨ	I-LOC
+pa:)	I-LOC
+
+pa:ਜੰਮੂ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਕਸ਼ਮੀਰ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗੁਰੂ	B-PER
+pa:ਤੇਗ	I-PER
+pa:ਬਹਾਦਰ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਜਿਹਨਾਂ	O
+pa:ਕਵੀਆਂ	O
+pa:ਬਾਰੇ	O
+pa:ਜਾਣਕਾਰੀ	O
+pa:ਮਿਲਦੀ	O
+pa:ਹੈ	O
+pa:ਉਹਨਾਂ	O
+pa:ਵਿੱਚੋਂ	O
+pa:ਸਭ	O
+pa:ਤੋਂ	O
+pa:ਪਹਿਲੀ	O
+pa:ਸੀਹਰਫ਼ੀ	O
+pa:ਸੁਲਤਾਨ	B-PER
+pa:ਬਾਹੂ	I-PER
+pa:ਦੀ	O
+pa:ਮਿਲਦੀ	O
+pa:ਹੈ।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਟੇਡੀਅਮ	B-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਲਾਈਟ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮਾਂਤਰੀ	B-ORG
+pa:ਸ਼ੁੱਧ	I-ORG
+pa:ਅਤੇ	I-ORG
+pa:ਵਿਹਾਰਕ	I-ORG
+pa:ਰਸਾਇਣ	I-ORG
+pa:ਵਿਗਿਆਨ	I-ORG
+pa:ਸੰਘ	I-ORG
+
+pa:ਸਿਟੀ	B-ORG
+pa:ਪੈਲੇਸ	I-ORG
+pa:,	I-ORG
+pa:ਉਦੈਪੁਰ	I-ORG
+
+pa:ਭਾਰਤ	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਸੁਪਰੀਮ	I-ORG
+pa:ਕੋਰਟ	I-ORG
+
+pa:ਗੁਰੂ	B-PER
+pa:ਨਾਨਕ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਭੁਬਨੇਸ਼ਵਰ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼-ਬਲਾਈਂਡ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੁਹੰਮਦ	B-PER
+pa:ਅਲੀ	I-PER
+pa:ਜਿੰਨਾ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਿਲਨੁਸ	B-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:ਲਾਇਬ੍ਰੇਰੀ	I-ORG
+
+pa:ਨਿਊਫ਼ੰਡਲੈਂਡ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਲਾਬਰਾਡੋਰ	I-LOC
+
+pa:ਮਹਿਵਿਸ਼	B-PER
+pa:ਹਯਾਤ	I-PER
+pa:(	O
+pa:ਇਸ਼ਾਲ	O
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਉੱਤਰੀ	B-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+pa:ਅਤੇ	O
+pa:ਯੂਰਪ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਲਾਲ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:(	I-PER
+pa:ਸਿਆਸਤਦਾਨ	I-PER
+pa:)	I-PER
+
+pa:ਗੁਰੂ	B-PER
+pa:ਨਾਨਕ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਫ਼ਵਾਦ	B-ORG
+pa:ਅਫ਼ਜ਼ਲ	I-ORG
+pa:ਖ਼ਾਨ	I-ORG
+
+pa:ਦਾਦਰ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਨਗਰ	I-LOC
+pa:ਹਵੇਲੀ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਾਜਿੰਦਰ	B-PER
+pa:ਕੁਮਾਰ	I-PER
+pa:ਪਚੌਰੀ	I-PER
+
+pa:ਆਪ	O
+pa:ਬਿਰਧ	O
+pa:ਅਵਸਥਾ	O
+pa:ਵਿੱਚ	O
+pa:ਆਪਣੇ	O
+pa:ਪੁੱਤਰ	O
+pa:ਅਜਾਤਸ਼ਤਰੂ	B-ORG
+pa:ਹੱਥੋਂ	O
+pa:ਹੀ	O
+pa:ਕਤਲ	O
+pa:ਹੋ	O
+pa:ਗਿਆ।	O
+
+pa:ਆਰਕੀਮਿਡੀਜ਼	B-PER
+pa:ਨੇ	O
+pa:ਸਭ	O
+pa:ਤੋਂ	O
+pa:ਪਹਿਲਾਂ	O
+pa:ਇਹ	O
+pa:ਸੂਤਰ	O
+pa:ਲਭਿਆ	O
+pa:ਸੀ।	O
+
+pa:ਮਸਕਟ	B-LOC
+pa:(	O
+pa:'	O
+pa:''	O
+pa:'	O
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਮਲਾਲਾ	B-PER
+pa:ਯੂਸਫ਼ਜ਼ਈ	I-PER
+pa:;	O
+pa:ਕੈਲਾਸ਼	B-PER
+pa:ਸਤਿਆਰਥੀ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਆਇਸ਼ਾ	B-PER
+pa:ਖਾਨ	I-PER
+pa:as	O
+pa:Rania	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਓਲੰਪੀਕ	B-ORG
+pa:ਡ	I-ORG
+pa:ਮਾਰਸੇਈ	I-ORG
+
+pa:ਜਿਥੇ	O
+pa:ਕਵਿਤਾ	O
+pa:ਖਤਮ	O
+pa:ਨਹੀਂ	O
+pa:ਹੁੰਦੀ	O
+pa:ਪਾਸ਼	B-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਲਵਾਦੋਰ	B-ORG
+pa:ਦੇ	I-ORG
+pa:ਆਵੀਲਾ	I-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਲਾਲ	B-PER
+pa:ਚੰਦ	I-PER
+pa:ਯਮਲਾ	I-PER
+pa:ਜੱਟ	I-PER
+
+pa:ਮੈਕਸੀਕੋ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਖਾੜੀ	I-LOC
+
+pa:ਸਾਹਿਬਜ਼ਾਦਾ	B-PER
+pa:ਜੁਝਾਰ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਬਿਆਸ	B-PER
+pa:(	I-PER
+pa:ਰਿਸ਼ੀ	I-PER
+pa:)	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਿਰੌਂਦੈਂ	B-ORG
+pa:ਦੇ	I-ORG
+pa:ਬੋਰਦੋ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਸ਼ੇਖ਼	B-PER
+pa:ਬਹਾਉ	I-PER
+pa:ਉੱਦ	I-PER
+pa:ਦੀਨ	I-PER
+pa:ਜ਼ਕਰੀਆ	I-PER
+pa:ਮੁਲਤਾਨੀ	I-PER
+
+pa:ਕੋਕੋਸ	B-LOC
+pa:(	I-LOC
+pa:ਕੀਲਿੰਗ	I-LOC
+pa:)	I-LOC
+pa:ਟਾਪੂ	I-LOC
+
+pa:ਸਟੀਲ	O
+pa:ਵਿੱਚ	O
+pa:ਖੁਦਾਈ	O
+pa:ਵਾਲਟ	B-PER
+pa:ਵਿਟਮੈਨ	I-PER
+
+pa:ਰਾਸ਼ਟਰੀ	B-ORG
+pa:ਸੇਵਾ	I-ORG
+pa:ਯੋਜਨਾ	I-ORG
+
+pa:ਤੱਕ	O
+pa:ਉਸਦਾ	O
+pa:ਰਾਜਘਰ	O
+pa:ਗੁਜਰਾਂਵਾਲਾ	B-LOC
+pa:ਰਿਹਾ	O
+pa:।	O
+pa:1802ਈ	O
+pa:.	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮਲਾਗਾ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰਿਆਧ	B-LOC
+pa:(	O
+pa:'	O
+pa:''	O
+pa:'	O
+pa:)	O
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼-ਬਲਾਈਂਡ	I-ORG
+
+pa:ਗੁਰੂ	B-PER
+pa:ਹਰਿਰਾਇ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਮੇਥੀ	O
+pa:ਦਾ	O
+pa:ਉਤਪਾਦਨ	O
+pa:ਭਾਰਤ	B-LOC
+pa:'ਚ	O
+pa:ਸਭ	O
+pa:ਤੋਂ	O
+pa:ਜ਼ਿਆਦਾ	O
+pa:ਹੁੰਦਾ	O
+pa:ਹੈ।	O
+
+pa:ਜਿੰਨ	B-LOC
+pa:ਰਾਜਵੰਸ਼	I-LOC
+pa:(	I-LOC
+pa:1115–1234	I-LOC
+pa:)	I-LOC
+
+pa:ਵਾਲਮੀਰਾ	B-LOC
+pa:(	O
+pa:Valmiera	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖਿੰਡਾਅ	B-LOC
+pa:(	I-LOC
+pa:ਪ੍ਰਕਾਸ਼	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:ਮੌਲਾਨਾ	B-PER
+pa:ਅਬੁਲ	I-PER
+pa:ਕਲਾਮ	I-PER
+pa:ਆਜ਼ਾਦ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਮਾਈਕ੍ਰੋਨੇਸ਼ੀਆ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਸਾਹਿਬਜ਼ਾਦਾ	B-PER
+pa:ਅਜੀਤ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਪੇਦਰੋ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਮੈਸਤਾਸ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਕੌਨ	I-ORG
+pa:)	I-ORG
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼-ਬਲਾਈਂਡ	I-ORG
+
+pa:ਅਲੀ	B-PER
+pa:ਸਰਦਾਰ	I-PER
+pa:ਜਾਫ਼ਰੀ	I-PER
+pa:(	O
+pa:1913-2000	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮਾਮੋਨੀ	B-PER
+pa:ਰਾਇਸਮ	I-PER
+pa:ਗੋਸਵਾਮੀ	I-PER
+
+pa:ਸੈਮਸੰਗ	B-ORG
+pa:(	O
+pa:Samsung	O
+pa:)	O
+
+pa:ਆਗਰਾ	B-LOC
+pa:,	O
+pa:ਉੱਤਰ	B-LOC
+pa:ਪ੍ਰਦੇਸ਼	I-LOC
+pa:,	O
+pa:ਭਾਰਤ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੁਐਸਤਰਾ	B-ORG
+pa:ਸਿਞੋਰਾ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਲਾ	I-ORG
+pa:ਪਿਞਾ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਫ਼ਾਈਦੋ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਮੋਗਾ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮਹੰਤ	B-ORG
+pa:ਗੁਰਬੰਤਾ	I-ORG
+pa:ਦਾਸ	I-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਡੈੱਫ਼	I-ORG
+pa:&	I-ORG
+pa:ਡਮ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਫ਼ਰੈਂਕਲਿਨ	B-PER
+pa:ਡੀ	I-PER
+pa:ਰੂਜ਼ਵੈਲਟ	I-PER
+
+pa:ਦ	B-ORG
+pa:ਟਾਈਮਜ਼	I-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਇੰਡੀਆ	I-ORG
+
+pa:Skateistan	O
+pa:–	O
+pa:a	O
+pa:skateboarding	O
+pa:/	O
+pa:educational	O
+pa:organization	O
+pa:based	O
+pa:in	O
+pa:Kabul	B-LOC
+pa:,	I-LOC
+pa:Afghanistan	I-LOC
+
+pa:ਸਬੀਰ	B-PER
+pa:ਭਾਟੀਆ	I-PER
+pa:,	O
+pa:co-founder	O
+pa:of	O
+pa:Hotmail	O
+
+pa:'	O
+pa:''	O
+pa:ਵੀਸਵਾਵਾ	B-PER
+pa:ਸ਼ਿੰਬੋਰਸਕਾ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖ਼ਾਇਨ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੂਰਬੀ	B-LOC
+pa:ਚੀਨ	I-LOC
+pa:ਸਮੁੰਦਰ	I-LOC
+
+pa:[[ਜੈਸਲਮੇਰ	O
+pa:,	O
+pa:ਰਾਜਸਥਾਨ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਇੱਕ	O
+pa:ਭੰਗ	O
+pa:ਦੀ	O
+pa:ਦੁਕਾਨ]]	O
+
+pa:ਜਾਵੇਦ	B-PER
+pa:ਸ਼ੇਖ	I-PER
+pa:(	O
+pa:ਇਸ਼ਾਲ	O
+pa:ਦਾ	O
+pa:ਪਿਤਾ	O
+pa:)	O
+
+pa:ਸਮੀਨਾ	B-PER
+pa:ਪੀਰਜ਼ਾਦਾ	I-PER
+pa:as	O
+pa:ਫ਼ਲਕ	O
+pa:ਦੀ	O
+pa:ਨਾਨੀ	O
+
+pa:ਪਾਪੂਆ	B-LOC
+pa:ਨਿਊ	I-LOC
+pa:ਗਿਨੀ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਸਾਲਵਾਦੋਰ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਫ਼ੁਐਂਤਿਸ	I-ORG
+pa:)	I-ORG
+
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:ਆਇਸ਼ਾ	B-PER
+pa:ਓਮਰ	I-PER
+pa:,	O
+pa:ਸਨਮ	B-PER
+pa:ਸਈਦ	I-PER
+
+pa:ਹੁਸ਼ਿਆਰਪੁਰ	B-ORG
+pa:(	I-ORG
+pa:ਲੋਕ	I-ORG
+pa:ਸਭਾ	I-ORG
+pa:ਚੋਣ-ਹਲਕਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਈਸਟ	B-ORG
+pa:ਇੰਡੀਆ	I-ORG
+pa:ਕੰਪਨੀ	I-ORG
+
+pa:੨੦੦੮	B-ORG
+pa:ਓਲੰਪਿਕ	I-ORG
+pa:ਖੇਡਾਂ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਵਿੱਚ	I-ORG
+pa:ਕੁਸ਼ਤੀ	I-ORG
+pa:–	I-ORG
+pa:ਪੁਰਸ਼ਾਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਫ੍ਰੀਸਟਾਇਲ	I-ORG
+pa:੬੬	I-ORG
+pa:ਕਿਲੋਗਰਾਮ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਓਰਹਾਨ	B-PER
+pa:ਪਾਮੁਕ	I-PER
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:ਤਾਜ	B-ORG
+pa:ਮਹਿਲ	I-ORG
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕ੍ਰਿਸ਼ਣ	B-PER
+pa:ਬਲਦੇਵ	I-PER
+pa:ਵੈਦ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਓਗਰੇ	B-LOC
+pa:,	I-LOC
+pa:ਲਾਤਵੀਆ	I-LOC
+
+pa:ਮੁਝੇ	B-ORG
+pa:ਖੁਦਾ	I-ORG
+pa:ਪੇ	I-ORG
+pa:ਯਕੀਨ	I-ORG
+pa:ਹੈ	I-ORG
+
+pa:ਮੌਲਾਨਾ	B-PER
+pa:ਅਬੁਲ	I-PER
+pa:ਕਲਾਮ	I-PER
+pa:ਆਜ਼ਾਦ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਾਰਕ	B-ORG
+pa:ਫ਼ੇਦੇਰੀਕੋ	I-ORG
+pa:ਗਾਰਤੀਆ	I-ORG
+pa:ਲੋਰਕਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਫ਼ੁਐੱਨਮਾਈਓਰ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਿਨਸੰਟ	B-PER
+pa:ਵੈਨ	I-PER
+pa:ਗਾਗ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੂਰ	B-PER
+pa:ਇਨਾਇਤ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:*ਮੀਰਪੁਰ	O
+pa:ਵਿੱਚ	O
+pa:ਬੰਗਲਾਦੇਸ਼	B-LOC
+pa:ਖਿਲ਼ਾਫ	O
+pa:100ਵਾਂ	O
+pa:ਸੈਂਕਡ਼ਾ।	O
+
+pa:ਰਾਜ	B-ORG
+pa:ਸਭਾ	I-ORG
+pa:ਦਾ	O
+pa:ਡਿਪਟੀ	O
+pa:ਚੇਅਰਮੈਨ	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤੋ	B-ORG
+pa:ਕ੍ਰਿਸਤੋ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਲਾ	I-ORG
+pa:ਬੈਰਾ	I-ORG
+pa:ਕਰੂਸ	I-ORG
+pa:ਆਸ਼ਰਮ	I-ORG
+
+pa:ਪੰਜਾਬ	B-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਮੁੱਖ	I-ORG
+pa:ਮੰਤਰੀਆਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਸੂਚੀ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗਿਆਨੀ	B-PER
+pa:ਗੁਰਮੁਖ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਮੁਸਾਫ਼ਿਰ	I-PER
+
+pa:੨੦੦੮	B-ORG
+pa:ਓਲੰਪਿਕ	I-ORG
+pa:ਖੇਡਾਂ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਵਿੱਚ	I-ORG
+pa:ਕੁਸ਼ਤੀ	I-ORG
+pa:–	I-ORG
+pa:ਪੁਰਸ਼ਾਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਫ੍ਰੀਸਟਾਇਲ	I-ORG
+pa:੫੫	I-ORG
+pa:ਕਿਲੋਗਰਾਮ	I-ORG
+
+pa:ਜਨਤਾ	B-ORG
+pa:ਦਲ	I-ORG
+pa:(	I-ORG
+pa:ਯੁਨਾਈਟਡ	I-ORG
+pa:)	I-ORG
+
+pa:ਜੱਸਾ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਆਹਲੂਵਾਲੀਆ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਬਿੰਦਰ	B-PER
+pa:ਨਾਥ	I-PER
+pa:ਟੈਗੋਰ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਤੀਰੂਵੰਥਪੁਰਮ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮੀ	B-ORG
+pa:ਮਨੁੱਖੀ	I-ORG
+pa:ਹੱਕ	I-ORG
+pa:ਕਮਿਸ਼ਨ	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਟਾਈਮ	B-ORG
+pa:(	I-ORG
+pa:ਪਤ੍ਰਿਕਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਬਲਾਈਂਡ	I-ORG
+
+pa:ਸਾਨ	B-LOC
+pa:ਹੋਜ਼ੇ	I-LOC
+pa:,	I-LOC
+pa:ਕੈਲੀਫ਼ੋਰਨੀਆ	I-LOC
+
+pa:ਨਿਊਜ਼ੀਲੈਂਡ	B-LOC
+pa:ਦੇ	I-LOC
+pa:ਤੋਤੇ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦਰਾਕੋ	B-PER
+pa:(	I-PER
+pa:ਵਿਧਾਇਕ	I-PER
+pa:)	I-PER
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਕਪੂਰਥਲਾ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾ	B-ORG
+pa:ਅਸੂੰਸੀਓਨ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਐਯੀਨ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਘੱਟ	B-ORG
+pa:ਗਿਣਤੀਆਂ	I-ORG
+pa:ਸਰੋਕਾਰ	I-ORG
+pa:ਵਜ਼ਾਰਤ	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਮਹਾਰਾਜਾ	B-PER
+pa:ਰਣਜੀਤ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਜਰਨਲ	I-PER
+
+pa:ਸ਼ੁੰਗ	B-ORG
+pa:ਰਾਜਵੰਸ਼	I-ORG
+pa:ਦਾ	O
+pa:ਇੱਕ	O
+pa:ਰਾਜਾ।	O
+
+pa:ਮੱਧ	B-LOC
+pa:ਪ੍ਰਦੇਸ਼	I-LOC
+pa:(	O
+pa:1	O
+pa:)	O
+pa:ਉੱਤਰ	B-LOC
+pa:ਪ੍ਰਦੇਸ਼	I-LOC
+pa:(	O
+pa:1	O
+pa:)	O
+
+pa:ਤਖ਼ਤ	B-LOC
+pa:ਸ੍ਰੀ	I-LOC
+pa:ਕੇਸਗੜ੍ਹ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+
+pa:•	O
+pa:ਮੇਰੇ	B-ORG
+pa:ਕ਼ਾਤਿਲ	I-ORG
+pa:ਮੇਰੇ	B-ORG
+pa:ਦਿਲਦਾਰ	I-ORG
+
+pa:ਡਫ਼ਰਿਨ-ਪੀਲ	B-LOC
+pa:ਕੈਥੋਲਿਕ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+pa:ਸਕੂਲ	I-LOC
+pa:ਬੋਰਡ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਏ.	B-ORG
+pa:ਐੱਸ.	I-ORG
+pa:ਰੋਮਾ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਕੇਂਜ਼ਾਬੂਰੋ	B-PER
+pa:ਓਏ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਸਾਹਿਬਜ਼ਾਦਾ	B-PER
+pa:ਜੁਝਾਰ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਬਦੁਲ	B-PER
+pa:ਹਫੀਜ਼	I-PER
+pa:ਮੁਹੰਮਦ	I-PER
+pa:ਬਰਕਤੁੱਲਾ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੁਸਰਤ	B-PER
+pa:ਫ਼ਤਿਹ	I-PER
+pa:ਅਲੀ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦ	B-ORG
+pa:ਵਾਲ	I-ORG
+pa:ਸਟਰੀਟ	I-ORG
+pa:ਜਰਨਲ	I-ORG
+
+pa:*2014	O
+pa:ਸਦਕ਼ੇ	B-ORG
+pa:ਤੁਮਹਾਰੇ	I-ORG
+pa:''	O
+pa:(	O
+pa:ਸ਼ਾਨੋ	O
+pa:)	O
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼	I-ORG
+
+pa:ਗੁਰੂ	B-PER
+pa:ਹਰਿਰਾਇ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸ੍ਰੀ	B-LOC
+pa:ਮੁਕਤਸਰ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਕੌਗੋਯੂਦੋ	I-ORG
+pa:)	I-ORG
+
+pa:ਬੰਦਰ	B-LOC
+pa:ਸੇਰੀ	I-LOC
+pa:ਬੇਗਵਾਨ	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਕੈਯਨ	O
+pa:''	O
+pa:'	O
+pa:ਜਾਂ	O
+pa:'	O
+pa:''	O
+pa:ਕੈਅਨ	O
+pa:''	O
+pa:'	O
+pa:(	O
+pa:)	O
+pa:ਫ਼ਰਾਂਸੀਸੀ	B-LOC
+pa:ਗੁਈਆਨਾ	I-LOC
+pa:ਦੀ	O
+pa:ਰਾਜਧਾਨੀ	B-LOC
+pa:ਹੈ	O
+pa:ਜੋ	O
+pa:ਕਿ	O
+pa:ਫ਼ਰਾਂਸ	B-LOC
+pa:ਦਾ	O
+pa:ਦੱਖਣੀ	B-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+pa:ਵਿੱਚ	O
+pa:ਇੱਕ	O
+pa:ਵਿਭਾਗ	O
+pa:ਹੈ।	O
+
+pa:ਹਰੀ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਨਲੂਆ	I-PER
+
+pa:ਭਾਰਤੀ	B-ORG
+pa:ਕਮਿਊਨਿਸਟ	I-ORG
+pa:ਪਾਰਟੀ	I-ORG
+pa:(	I-ORG
+pa:ਮਾਰਕਸਵਾਦੀ	I-ORG
+pa:)	I-ORG
+
+pa:ਸਿਟੀ	B-ORG
+pa:ਪੈਲੇਸ	I-ORG
+pa:,	I-ORG
+pa:ਉਦੈਪੁਰ	I-ORG
+
+pa:ਯੁਗੇਸ਼ਵਰ	B-PER
+pa:ਦੱਤ	I-PER
+pa:(	O
+pa:Icon	O
+pa:Player	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਯੂਨੀਵਰਸਿਟੀ	B-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਟੈਕਨਾਲੋਜੀ	I-ORG
+pa:,	I-ORG
+pa:ਸਿਡਨੀ	I-ORG
+
+pa:**	O
+pa:Chaush	O
+pa:Trace	O
+pa:ancestors	O
+pa:to	O
+pa:traders	O
+pa:from	O
+pa:Yemen	B-LOC
+
+pa:'	O
+pa:''	O
+pa:ਸਾਨ	B-LOC
+pa:ਸਾਲਵਾਦੋਰ	I-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਾਨ	B-LOC
+pa:ਸਮਿੱਥ	I-LOC
+pa:ਸਟੇਡੀਅਮ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਡਾ.	B-PER
+pa:ਹਰਿਭਜਨ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਾਸ਼ਿੰਗਟਨ	B-LOC
+pa:,	I-LOC
+pa:ਡੀ.ਸੀ	I-LOC
+pa:.	I-LOC
+
+pa:ਪੰਕਜ	B-PER
+pa:ਕਪੂਰ	I-PER
+pa:-	O
+pa:ਵਿਪਿਨ	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮਾਂਤਰੀ	B-ORG
+pa:ਇਕਾਈ	I-ORG
+pa:ਢਾਂਚਾ	I-ORG
+
+pa:ਆਤਿਸ਼	B-PER
+pa:(	O
+pa:1778–1846	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਿਮੋਨ	B-PER
+pa:ਦ	I-PER
+pa:ਬੋਵੁਆਰ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜੁਪੀਟਰ	B-PER
+pa:(	I-PER
+pa:ਮਿਥਿਹਾਸ	I-PER
+pa:)	I-PER
+
+pa:ਗੁਰੂ	B-PER
+pa:ਹਰਿਰਾਇ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਓਬੀਐਦੋ	I-ORG
+pa:)	I-ORG
+
+pa:''	O
+pa:ਮੌਲਾ	B-PER
+pa:ਸ਼ਾਹ	I-PER
+pa:''	O
+
+pa:ਹਰੀ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਦਿਲਬਰ	I-PER
+pa:(	I-PER
+pa:ਕਵੀ	I-PER
+pa:)	I-PER
+
+pa:**	O
+pa:'	O
+pa:''	O
+pa:ਮਾਉਰੋ	O
+pa:ਨੇਰਵੀ	O
+pa:''	O
+pa:'	O
+pa:,	O
+pa:ਇਟਲੀ	B-LOC
+
+pa:ਰੂਸ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਜ਼ਾਰਸ਼ਾਹੀ	I-LOC
+
+pa:ਉੱਤਰ-ਕਾਲੇ	B-LOC
+pa:ਦਾ	I-LOC
+pa:ਪਣਜੋੜ	I-LOC
+
+pa:ਜੰਮੂ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਕਸ਼ਮੀਰ	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਤੇਗੂਸੀਗਾਲਪਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਤਖ਼ਤ	B-LOC
+pa:ਸ੍ਰੀ	I-LOC
+pa:ਹਜ਼ੂਰ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਫਗਾਨਿਸਤਾਨ	B-ORG
+pa:ਵਿੱਚ	I-ORG
+pa:ਯੁੱਧ	I-ORG
+pa:(	I-ORG
+pa:2001–14	I-ORG
+pa:)	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਬੀਜੂ	B-ORG
+pa:ਜਨਤਾ	I-ORG
+pa:ਦਲ	I-ORG
+pa:''	O
+pa:'	O
+
+pa:**	O
+pa:ਮਹਿਵਿਸ਼	B-PER
+pa:ਹਯਾਤ	I-PER
+pa:–	O
+pa:''	O
+pa:ਮੇਰੇ	B-ORG
+pa:ਕ਼ਾਤਿਲ	I-ORG
+pa:ਮੇਰੇ	B-ORG
+pa:ਦਿਲਦਾਰ	I-ORG
+pa:''	O
+
+pa:ਜਯੋਤੀ	B-PER
+pa:ਰਾਓ	I-PER
+pa:ਗੋਬਿੰਦ	I-PER
+pa:ਰਾਓ	I-PER
+pa:ਫੂਲੇ	I-PER
+
+pa:ਭਾਰਤ	B-ORG
+pa:ਦਾ	I-ORG
+pa:ਫ਼ਿਲਮ	I-ORG
+pa:ਅਤੇ	I-ORG
+pa:ਟੈਲੀਵਿਜ਼ਨ	I-ORG
+pa:ਇੰਸਟੀਚਿਊਟ	I-ORG
+
+pa:ਦੰਦ	B-LOC
+pa:ਖੰਡ	I-LOC
+pa:ਤਟ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖਵਾਜਾ	B-PER
+pa:ਗ਼ੁਲਾਮ	I-PER
+pa:ਫ਼ਰੀਦ	I-PER
+
+pa:ਗੁਰੂ	B-PER
+pa:ਹਰਿਕ੍ਰਿਸ਼ਨ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਪੰਜਾਬ	B-ORG
+pa:ਨੈਸ਼ਨਲ	I-ORG
+pa:ਬੈਂਕ	I-ORG
+pa:ਅਤੇ	O
+
+pa:ਹਾਂ	O
+pa:,	O
+pa:ਮੈਂ	O
+pa:ਪੰਜਾਬੀ	B-PER
+pa:ਬੋਲਦਾ	O
+pa:ਹਾਂ।	O
+
+pa:ਬਾਬਾ	B-PER
+pa:ਬੁੱਢਾ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਦੇਖੋ	O
+pa:ਪਾਰਸਾ	B-ORG
+pa:(	I-ORG
+pa:ਟੀਵੀ	I-ORG
+pa:ਡਰਾਮਾ	I-ORG
+pa:)	I-ORG
+
+pa:विशिष्टतः	O
+pa:एक	O
+pa:श्रेणी	O
+pa:किसी	O
+pa:स्थान	O
+pa:की	O
+pa:परिधि	O
+pa:आस-पास	O
+pa:वितरित	O
+pa:कई	O
+pa:सर्वदिशात्मक	O
+pa:माइक्रोफोनों	O
+pa:से	O
+pa:मिलकर	O
+pa:बनती	O
+pa:है	O
+pa:,	O
+pa:जो	O
+pa:एक	O
+pa:कम्प्यूटर	B-LOC
+pa:से	O
+pa:जुड़े	O
+pa:होते	O
+pa:हैं	O
+pa:,	O
+pa:जो	O
+pa:परिणामों	O
+pa:को	O
+pa:रिकॉर्ड	O
+pa:करता	O
+pa:है	O
+pa:और	O
+pa:एक	O
+pa:रूप	O
+pa:में	O
+pa:उनकी	O
+pa:व्याख्या	O
+pa:करता	O
+pa:है।	O
+
+pa:ਦ੍ਰਿਸ਼	O
+pa:24	O
+pa:-	O
+pa:ਲੋਬਨੋਏ	O
+pa:ਮੇਸਤੋ	O
+pa:,	O
+pa:(	O
+pa:ਲਾਲ	B-ORG
+pa:ਚੌਕ	I-ORG
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗੈਬਰੀਅਲ	B-PER
+pa:ਗਾਰਸੀਆ	I-PER
+pa:ਮਾਰਕੇਜ਼	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜੁਪੀਟਰ	B-PER
+pa:(	I-PER
+pa:ਮਿਥਿਹਾਸ	I-PER
+pa:)	I-PER
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਜਲੰਧਰ	B-LOC
+
+pa:ਬਿੱਗ	B-ORG
+pa:ਬੌਸ	I-ORG
+pa:(	I-ORG
+pa:ਸੀਜ਼ਨ	I-ORG
+pa:9	I-ORG
+pa:)	I-ORG
+pa:''	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਲਾਓਰਾ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਸਾਹਿਬਜ਼ਾਦਾ	B-PER
+pa:ਅਜੀਤ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਾਊਲੋ	B-PER
+pa:ਦੀ	I-PER
+pa:ਆਵੀਤਾਬੀਲੇ	I-PER
+
+pa:ਚੰਗੇਜ਼	B-PER
+pa:ਖ਼ਾਨ	I-PER
+pa:(	O
+pa:1888–1975	O
+pa:)	O
+
+pa:ਸ਼ਹਿਰ-ਏ-ਜ਼ਾਤ	B-ORG
+pa:(	I-ORG
+pa:ਟੀਵੀ	I-ORG
+pa:ਡਰਾਮਾ	I-ORG
+pa:)	I-ORG
+pa:''	O
+
+pa:ਹਮ	B-ORG
+pa:ਟੀਵੀ	I-ORG
+pa:(	O
+pa:Telefilm	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੋਂਤੀਆਰਾਗੋਨ	B-ORG
+pa:ਦਾ	I-ORG
+pa:ਕਿਲਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਰੇਮਨ	B-LOC
+pa:(	I-LOC
+pa:ਰਾਜ	I-LOC
+pa:)	I-LOC
+
+pa:ਬਾਜ਼	B-PER
+pa:(	O
+pa:2014	O
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਰਿਚਰਡ	B-PER
+pa:ਨਿਕਸਨ	I-PER
+pa:''	O
+pa:'	O
+pa:(	O
+pa:1913–1994	O
+pa:)	O
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼-ਬਲਾਈਂਡ	I-ORG
+
+pa:ਗੁਰਦਾਸਪੁਰ	B-ORG
+pa:(	I-ORG
+pa:ਲੋਕ	I-ORG
+pa:ਸਭਾ	I-ORG
+pa:ਚੋਣ-ਹਲਕਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲੂਈ	B-PER
+pa:ਡ	I-PER
+pa:ਬਰੌਈ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਿਨਸੈਂਟ	B-PER
+pa:ਵਾਨ	I-PER
+pa:ਗਾਗ	I-PER
+pa:ਦੀ	I-PER
+pa:ਮੌਤ	I-PER
+
+pa:ਸਿਟੀ	B-ORG
+pa:ਪੈਲੇਸ	I-ORG
+pa:,	I-ORG
+pa:ਜੈਪੁਰ	I-ORG
+
+pa:ਇਸ	O
+pa:ਕਿਤਾਬ	O
+pa:ਦਾ	O
+pa:ਮੁੱਖ	O
+pa:ਬੰਦ	O
+pa:ਐਲਡਸ	B-PER
+pa:ਹਕਸਲੇ	I-PER
+pa:ਦੁਆਰਾ	O
+pa:ਲਿਖਿਆ	O
+pa:ਗਿਆ	O
+pa:ਹੈ।	O
+
+pa:ਚੰਬਾ	B-LOC
+pa:,	I-LOC
+pa:ਹਿਮਾਚਲ	I-LOC
+pa:ਪ੍ਰਦੇਸ਼	I-LOC
+
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:ਇੰਫਾਲ	B-LOC
+pa:ਪੱਛਮ	I-LOC
+pa:ਜ਼ਿਲਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਬਾਲਦੇਦੀਓਸ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨਿਊਫ਼ੰਡਲੈਂਡ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਲਾਬਰਾਡੋਰ	I-LOC
+
+pa:===	O
+pa:2010	B-ORG
+pa:ਰਸਟਰਮੰਡਲ	I-ORG
+pa:ਖੇਡਾਂ	I-ORG
+pa:===	O
+
+pa:ਇੰਫਾਲ	B-LOC
+pa:ਪੂਰਵ	I-LOC
+pa:ਜ਼ਿਲਾ	I-LOC
+
+pa:Reykjavík	B-LOC
+pa:,	O
+pa:Iceland	B-LOC
+pa:(	O
+pa:2011	O
+pa:)	O
+
+pa:ਤੱਕ	O
+pa:ਸੀ।	O
+pa:ਇਸ	O
+pa:ਤੋ	O
+pa:ਬਾਅਦ	O
+pa:ਰੋਮਨ	B-LOC
+pa:ਸਮਰਾਜ	I-LOC
+pa:ਦਾ	O
+pa:ਗਠਨ	O
+pa:ਹੋਇਆ।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਿਨਸੰਟ	B-PER
+pa:ਵੈਨ	I-PER
+pa:ਗਾਗ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਡਾ.	B-PER
+pa:ਰਾਜੇਂਦਰ	I-PER
+pa:ਪ੍ਰਸਾਦ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਪੇਦਰੋ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਲਾ	I-ORG
+pa:ਫ਼ੈਲਗੇਰਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਾਬਾ	B-ORG
+pa:ਰਾਮ	I-ORG
+pa:ਚੰਦਰ	I-ORG
+
+pa:Rajwada	O
+pa:,	O
+pa:Indore	B-LOC
+pa:of	O
+pa:the	O
+pa:Holkars	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਸਟ੍ਰੇਲੀਆਈ	B-LOC
+pa:ਰਾਜਧਾਨੀ	I-LOC
+pa:ਰਾਜਖੇਤਰ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖ਼ੇਰੇਸ	B-ORG
+pa:ਦੇ	I-ORG
+pa:ਲਾ	I-ORG
+pa:ਫ਼ਰੌਂਤੇਰਾ	I-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਬਲਾਈਂਡ	I-ORG
+
+pa:ਸ਼ਹੀਦ	B-PER
+pa:ਬਾਬਾ	I-PER
+pa:ਦੀਪ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਸਾਹਿਬ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਚੜ੍ਹਾਈ	O
+pa:ਕਰ	O
+pa:ਗਏ	O
+pa:|	O
+
+pa:'	O
+pa:''	O
+pa:ਬੁਏਨਸ	B-LOC
+pa:ਆਇਰਸ	I-LOC
+pa:''	O
+pa:'	O
+
+pa:ਏਸਰ	B-ORG
+pa:(	O
+pa:Acer	O
+pa:)	O
+
+pa:ਫ਼ਰਾਂਸੀਸੀ	B-LOC
+pa:ਗੁਈਆਨਾ	I-LOC
+pa:,	O
+pa:ਫ਼ਰਾਂਸ	B-LOC
+pa:ਦਾ	O
+pa:ਇੱਕ	O
+pa:ਵਿਦੇਸ਼ੀ	O
+pa:ਵਿਭਾਗ	O
+
+pa:'	O
+pa:''	O
+pa:ਮਾਰੀਓ	B-PER
+pa:ਵਾਰਗਾਸ	I-PER
+pa:ਯੋਸਾ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਅਕਾਬਾ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਖਾੜੀ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਚਾਰਲਟਨ	B-ORG
+pa:ਅਥਲੈਟਿਕ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੈਕਸੀਕੋ	B-LOC
+pa:ਸ਼ਹਿਰ	I-LOC
+pa:ਦਾ	I-LOC
+pa:ਇਤਿਹਾਸਕ	I-LOC
+pa:ਕੇਂਦਰ	I-LOC
+
+pa:ਪ੍ਰਧਾਨ	B-PER
+pa:ਮੰਤਰੀ	I-PER
+pa:ਵਿਸੈਂਟ	O
+pa:ਏਹਾਤ	O
+pa:ਟੋਮੀ	O
+
+pa:ਪੀਲ	B-LOC
+pa:ਡਿਸਟ੍ਰਿਕਟ	I-LOC
+pa:ਸਕੂਲ	I-LOC
+pa:ਬੋਰਡ	I-LOC
+
+pa:ਉੱਤਰੀ	B-ORG
+pa:ਜ਼ੋਨ	I-ORG
+pa:ਸੱਭਿਆਚਾਰਕ	I-ORG
+pa:ਕੇਂਦਰ	I-ORG
+pa:,	O
+pa:ਪਟਿਆਲਾ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੌਟਿੰਘਮ	B-ORG
+pa:ਫ਼ਾਰਸਟ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਫ਼ਤਹਿਗੜ੍ਹ	B-LOC
+pa:ਸਾਹਿਬ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਹੈਦਰਾਬਾਦ	B-LOC
+pa:,	I-LOC
+pa:ਸਿੰਧ	I-LOC
+
+pa:ਰਘੂਪਤੀ	B-ORG
+pa:ਰਾਘਵ	I-ORG
+pa:ਰਾਜਾਰਾਮ	I-ORG
+
+pa:''	O
+pa:ਕਰਤਾਰ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਸਰਾਭਾ	I-PER
+pa:''	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਈਬੇਅ	B-ORG
+pa:(	I-ORG
+pa:ebay	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਫ਼ਰਾਂਸਿਸਕੋ	I-ORG
+pa:(	I-ORG
+pa:ਆਬੀਲੇਸ	I-ORG
+pa:)	I-ORG
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਂਸਸ	B-ORG
+pa:ਸਿਟੀ	I-ORG
+pa:ਚੀਫ਼ਜ਼	I-ORG
+
+pa:ਭੀਮ	B-PER
+pa:ਸੈਨ	I-PER
+pa:ਸੱਚਰ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੋਰਲ	B-LOC
+pa:ਸਮੁੰਦਰੀ	I-LOC
+pa:ਟਾਪੂ	I-LOC
+
+pa:ਭਾਰਤ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਕਿਸੇ	O
+pa:ਪ੍ਰਾਚੀਨ	O
+pa:ਥਾਂ	O
+pa:ਉੱਤੇ	O
+pa:ਆਮ	O
+
+pa:ਮਸੂਰੀ]]	O
+pa:,	O
+pa:(	O
+pa:ਉੱਤਰਾਖੰਡ	B-LOC
+pa:)	O
+
+pa:ਕੁੱਤੇ	O
+pa:ਅਤੇ	O
+pa:ਭੇਡਾਂ	B-LOC
+pa:ਸਭ	O
+pa:ਤੋਂ	O
+pa:ਪਹਿਲਾਂ	O
+pa:ਘਰੋਗੀ	O
+pa:ਕੀਤੇ	O
+pa:ਗਏ	O
+pa:ਜਾਨਵਰਾਂ	O
+pa:ਵਿੱਚੋਂ	O
+pa:ਸਨ।]]	O
+
+pa:੨੦੧੨	O
+pa:ਵਿਚ	O
+pa:ਪੰਜਾਬੀ	B-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:,	I-ORG
+pa:ਪਟਿਆਲਾ	I-ORG
+pa:ਵਲੋਂ	O
+pa:ਡੀਲਿਟ	O
+pa:ਨਾਲ	O
+pa:ਸਨਮਾਨਿਤ	O
+pa:ਕੀਤਾ	O
+pa:ਗਿਆ।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬੋਸਨੀਆ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਹਰਜ਼ੇਗੋਵੀਨਾ	I-LOC
+
+pa:ਹੈਦਰਾਬਾਦ	B-LOC
+pa:,	I-LOC
+pa:ਭਾਰਤ	I-LOC
+
+pa:ਗੁਰੂ	B-PER
+pa:ਅਰਜਨ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:ਝੁੱਗੀ	O
+pa:ਝੌਂਪੜੀ	O
+pa:ਦਾ	O
+pa:ਇਲਾਕਾ	O
+pa:ਮੁੰਬਈ	B-LOC
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਪਠਾਨਕੋਟ	B-LOC
+
+pa:ਵਾਲਿਸ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਫ਼ੁਤੂਨਾ	I-LOC
+
+pa:ਗੁਰੂ	B-PER
+pa:ਗੋਬਿੰਦ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:੨੦੦੮	B-ORG
+pa:ਓਲੰਪਿਕ	I-ORG
+pa:ਖੇਡਾਂ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਵਿੱਚ	I-ORG
+pa:ਕੁਸ਼ਤੀ	I-ORG
+pa:–	I-ORG
+pa:ਮਰਦਾਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਫਰੀਸਟਾਈਲ	I-ORG
+pa:੬੦	I-ORG
+pa:ਕਿਲੋਗਰਾਮ	I-ORG
+
+pa:ਜਿਲ੍ਹੇ	O
+pa:ਦਾ	O
+pa:ਮੁੱਖਆਲਾ	O
+pa:ਅਮਰਾਵਤੀ	B-LOC
+pa:ਹੈ।	O
+
+pa:'	O
+pa:''	O
+pa:ਪੈਟਰਿਕ	B-PER
+pa:ਵਾਈਟ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾ	B-ORG
+pa:ਲਾਗੂਨਾ	I-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਦੀਪਤੀ	B-PER
+pa:ਨਵਲ	I-PER
+pa:ਦੁਆਰਾ	O
+pa:ਨਿਰਦੇਸ਼ਿਤ	O
+pa:ਕੀਤੀ	O
+pa:ਜਾਵੇਗੀ	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮਾਂਤਰੀ	B-ORG
+pa:ਇਕਾਈ	I-ORG
+pa:ਢਾਂਚਾ	I-ORG
+
+pa:ਅਦਨਾਨ	B-PER
+pa:ਸਿੱਦਕੀ	I-PER
+pa:(	O
+pa:ਹਮਜਾ	O
+pa:ਵਜੋਂ	O
+pa:)	O
+
+pa:ਕਾਰਜਕਾਰੀ	O
+pa:ਪ੍ਰਧਾਨ	B-PER
+pa:ਮੰਤਰੀ	I-PER
+pa:ਚੇਇਕ	O
+pa:ਮੋਦੀਬੋ	O
+pa:ਦਿਆਰਾ	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੀਰ	B-PER
+pa:ਗੁਲ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+pa:ਨਸੀਰ	I-PER
+
+pa:ਹਿੰਦੁਸਤਾਨ	B-PER
+pa:ਸੋਸ਼ਲਿਸਟ	I-PER
+pa:ਰਿਪਬਲੀਕਨ	I-PER
+pa:ਐਸੋਸੀਏਸ਼ਨ	I-PER
+
+pa:2013	O
+pa:–	O
+pa:ਦਾਦਾ	B-PER
+pa:ਸਾਹਿਬ	I-PER
+pa:ਫਾਲਕੇ	I-PER
+
+pa:ਜਯੋਤੀ	B-PER
+pa:ਰਾਓ	I-PER
+pa:ਗੋਬਿੰਦ	I-PER
+pa:ਰਾਓ	I-PER
+pa:ਫੂਲੇ	I-PER
+
+pa:ਐਮ.ਟੀ.ਵੀ.	B-ORG
+pa:ਰੋਡੀਜ਼	I-ORG
+pa:(	I-ORG
+pa:ਸੀਜ਼ਨ	I-ORG
+pa:12	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਹਾਦੁਰ	B-PER
+pa:ਸ਼ਾਹ	I-PER
+pa:ਜ਼ਫ਼ਰ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਲਾ	I-ORG
+pa:ਓਲੀਵੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਬੀਯਾਬਿਥੀਓਸਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਅੰਡੇਮਾਨ	B-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਨਿਕੋਬਾਰ	I-LOC
+pa:ਟਾਪੂ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਇਮੇਤੇਰੀਓ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨਾਰਵਿਚ	B-ORG
+pa:ਸਿਟੀ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਰ	B-PER
+pa:ਆਰਥਰ	I-PER
+pa:ਕਾਨਨ	I-PER
+pa:ਡੌਇਲ	I-PER
+
+pa:ਸਿਟੀ	B-ORG
+pa:ਪੈਲੇਸ	I-ORG
+pa:,	I-ORG
+pa:ਉਦੈਪੁਰ	I-ORG
+
+pa:ਜੀਕਾਬਪਿਲਸ	B-LOC
+pa:(	O
+pa:Jēkabpils	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲੂਗੋ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੇਗੋਵੀਆ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗੁਰੂ	B-PER
+pa:ਅੰਗਦ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਪਾਕਿਸਤਾਨ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗੁਰਬਖ਼ਸ਼	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਪ੍ਰੀਤਲੜੀ	I-PER
+
+pa:ਸ੍ਰੀ	B-LOC
+pa:ਜੈਵਰਦਨਪੁਰਾ	I-LOC
+pa:ਕੋਟੇ	I-LOC
+
+pa:Heidelberg	O
+pa:,	O
+pa:Germany	B-LOC
+pa:(	O
+pa:2014	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-LOC
+pa:ਕ੍ਰਿਸਤੋਬਾਲ	I-LOC
+pa:ਦੇ	I-LOC
+pa:ਲਾ	I-LOC
+pa:ਲਾਗੁਨਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਾਸ਼ਿੰਗਟਨ	B-LOC
+pa:,	I-LOC
+pa:ਡੀ.ਸੀ	I-LOC
+pa:.	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਿੰਦਰ	B-PER
+pa:ਨਾਥ	I-PER
+pa:ਬੋਸ	I-PER
+
+pa:ਸਨਾ	B-LOC
+pa:(	O
+pa:'	O
+pa:''	O
+pa:'	O
+pa:)	O
+
+pa:ਪੀਲੀ	O
+pa:ਟਟੀਹਰੀ	O
+pa:,	O
+pa:[[ਕਾਲਕਾ	O
+pa:,	O
+pa:ਹਰਿਆਣਾ	B-LOC
+pa:,	O
+pa:ਭਾਰਤ	B-LOC
+pa:)	O
+pa:]]	O
+
+pa:ਆਰ	B-PER
+pa:ਕੇ	I-PER
+pa:ਨਰਾਇਣ	I-PER
+pa:ਦਾ	O
+pa:ਰਚਿਆ	O
+pa:ਇੱਕ	O
+pa:ਕਹਾਣੀ	O
+pa:ਸੰਗ੍ਰਹਿ	O
+pa:ਹੈ।	O
+
+pa:ਭਾਰਤ	B-LOC
+pa:(	O
+pa:IND	O
+pa:)	O
+pa:‡	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:2014	B-PER
+pa:ਏਸ਼ੀਆਈ	I-PER
+pa:ਖੇਡਾਂ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੁਆਂਟਮ	B-ORG
+pa:ਮਕੈਨਿਕਸ	I-ORG
+pa:ਦੀਆਂ	I-ORG
+pa:ਵਿਆਖਿਆਵਾਂ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਟ੍ਰਾਂਸਪੋਰਟ	B-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਲੰਡਨ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗਿਆਨੀ	B-PER
+pa:ਗੁਰਮੁਖ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਮੁਸਾਫ਼ਿਰ	I-PER
+
+pa:ਪੱਛਮੀ	B-ORG
+pa:ਜ਼ੋਨ	I-ORG
+pa:ਸੱਭਿਆਚਾਰਕ	I-ORG
+pa:ਕੇਂਦਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪਾਵਲੋਦਾਰ	B-LOC
+pa:(	I-LOC
+pa:ਪ੍ਰਾਂਤ	I-LOC
+pa:)	I-LOC
+
+pa:ਆਰ	B-PER
+pa:ਕੇ	I-PER
+pa:ਨਰਾਇਣ	I-PER
+pa:ਦਾ	O
+pa:ਰਚਿਆ	O
+pa:ਨਾਵਲ।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਲ	B-ORG
+pa:ਇੰਡੀਆ	I-ORG
+pa:ਮੁਸਲਿਮ	I-ORG
+pa:ਲੀਗ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਗਿਰੀਗੰਗਾ	O
+pa:''	O
+pa:'	O
+pa:ਖੜਾਪਥਰ	O
+pa:ਹਿਮਾਚਲ	B-LOC
+pa:ਪ੍ਰਦੇਸ਼	I-LOC
+pa:,	O
+pa:ਭਾਰਤ	B-LOC
+
+pa:ਚ	O
+pa:ਤੇ	O
+pa:ਰਾਵਲਪਿੰਡੀ	B-LOC
+pa:1820ਈ	O
+pa:.	O
+
+pa:ਸ਼ੇਖ਼	B-PER
+pa:ਬਹਾਉ	I-PER
+pa:ਉੱਦ	I-PER
+pa:ਦੀਨ	I-PER
+pa:ਜ਼ਕਰੀਆ	I-PER
+pa:ਮੁਲਤਾਨੀ	I-PER
+
+pa:ਗੁਰੂ	B-PER
+pa:ਹਰਿਰਾਇ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਸ਼ਹੀਦ	B-LOC
+pa:ਭਗਤ	I-LOC
+pa:ਸਿੰਘ	I-LOC
+pa:ਨਗਰ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:ਪੱਛਮ	B-LOC
+pa:ਗੋਦਾਵਰੀ	I-LOC
+pa:ਜ਼ਿਲਾ	I-LOC
+
+pa:ਲਾਸ	B-LOC
+pa:ਵੇਗਸ	I-LOC
+pa:,	O
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੇ	B-LOC
+pa:ਡ	I-LOC
+pa:ਲਾ	I-LOC
+pa:ਲੁਆਰ	I-LOC
+
+pa:ਪਰਾਮੀਲ	O
+pa:ਦਾ	O
+pa:ਜਨਮ	O
+pa:ਭਾਰਤ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਹੋਇਆ	O
+pa:ਅਤੇ	O
+pa:ਉਹ	O
+pa:ਇੰਡੋਨੇਸ਼ੀਆ	B-LOC
+pa:ਅਤੇ	O
+pa:ਸਿੰਗਾਪੁਰ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਵੱਡੀ	O
+pa:ਹੋਈ।	O
+pa:ਉਹ	O
+pa:1982ਈ	O
+pa:.	O
+
+pa:ਮੀਨਾ	B-PER
+pa:ਕੁਮਾਰੀ	I-PER
+pa:-	O
+pa:ਛੋਟੀ	O
+pa:ਬਹੂ	O
+
+pa:'	O
+pa:''	O
+pa:ਰਾਂਚੀ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਖ਼ੁਆਨ	I-ORG
+pa:ਬਾਊਤੀਸਤਾ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਅਲ	B-PER
+pa:ਗੋਰ	I-PER
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:ਮਿਲਟਨ	B-PER
+pa:ਫ਼ਰੀਡਮੈਨ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਸ਼ਹੀਦ	B-LOC
+pa:ਭਗਤ	I-LOC
+pa:ਸਿੰਘ	I-LOC
+pa:ਨਗਰ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸ੍ਰੀ	B-LOC
+pa:ਮੁਕਤਸਰ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+pa:ਜ਼ਿਲ੍ਹਾ	I-LOC
+
+pa:ਕਾਂਗੋ	B-LOC
+pa:ਲੋਕਤੰਤਰੀ	I-LOC
+pa:ਗਣਰਾਜ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਰ੍ਹੀ	B-LOC
+pa:,	I-LOC
+pa:ਬ੍ਰਿਟਿਸ਼	I-LOC
+pa:ਕੋਲੰਬੀਆ	I-LOC
+
+pa:ਰੋਲਾਂ	B-PER
+pa:ਬਾਰਥ	I-PER
+pa:ਦਾ	O
+pa:ਜ਼ਿਕਰ	O
+pa:ਵੀ	O
+pa:ਇਥੇ	O
+pa:ਜਰੂਰੀ	O
+pa:ਹੈ।	O
+
+pa:ਬਰਤਾਨਵੀ	B-LOC
+pa:ਹਿੰਦ	I-LOC
+pa:ਮਹਾਂਸਾਗਰ	I-LOC
+pa:ਰਾਜਖੇਤਰ	I-LOC
+
+pa:**	O
+pa:ਅਮੀਰਾ	B-PER
+pa:ਅਹਿਮਦ	I-PER
+pa:–	O
+pa:ਸ਼ਹਿਰ-ਏ-ਜ਼ਾਤ	B-ORG
+pa:''	O
+
+pa:ਗੁਰੂ	B-PER
+pa:ਗ੍ਰੰਥ	I-PER
+pa:ਸਾਹਿਬ	I-PER
+pa:ਵਿੱਚ	O
+pa:ਦਰਜ	O
+pa:22	O
+pa:ਵਾਰਾਂ	O
+pa:ਨੂੰ	O
+pa:ਵੀ	O
+pa:ਪਉੜੀ	O
+pa:ਛੰਦ	O
+pa:ਵਿੱਚ	O
+pa:ਹੀ	O
+pa:ਰਚਿਆ	O
+pa:ਗਿਆ	O
+pa:ਹੈ।	O
+
+pa:ਗੁਰੂ	B-PER
+pa:ਨਾਨਕ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤੀਆਗੋ	B-ORG
+pa:ਐੱਲ	I-ORG
+pa:ਮਾਈਓਰ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਸਾਰੀਐਗੋ	I-ORG
+pa:)	I-ORG
+
+pa:ਸਿਟੀ	B-ORG
+pa:ਪੈਲੇਸ	I-ORG
+pa:,	I-ORG
+pa:ਜੈਪੁਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦੋਨਿਆਨਾ	B-LOC
+pa:ਕੌਮੀ	I-LOC
+pa:ਪਾਰਕ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬੁੱਢਾ	B-ORG
+pa:ਅਤੇ	I-ORG
+pa:ਮੌਤ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਫ਼ਾਓ.	B-ORG
+pa:ਐੱਫ਼.	I-ORG
+pa:ਬੇ.	I-ORG
+pa:ਸ਼ਟੁੱਟਗਾਟ	I-ORG
+
+pa:ਵਿੱਚ	O
+pa:ਅੰਬਾਲੇ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਮੌਤ	O
+pa:ਹੋ	O
+pa:ਗਈ।	O
+
+pa:੨੦੦੮	B-ORG
+pa:ਓਲੰਪਿਕ	I-ORG
+pa:ਖੇਡਾਂ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਵਿੱਚ	I-ORG
+pa:ਕੁਸ਼ਤੀ	I-ORG
+pa:–	I-ORG
+pa:ਪੁਰਸ਼ਾਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਗ੍ਰੈਕੋ-ਰੋਮਨ	I-ORG
+pa:੭੪	I-ORG
+pa:ਕਿਲੋਗਰਾਮ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗਰੇਟ	B-LOC
+pa:ਬ੍ਰਿਟੇਨ	I-LOC
+pa:ਦੀ	I-LOC
+pa:ਬਾਦਸ਼ਾਹੀ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਾਦ	B-ORG
+pa:ਓਗੂਸਤ	I-ORG
+pa:ਦੇਲੌਨ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਰਤਾਨਵੀ	B-LOC
+pa:ਹਿੰਦ	I-LOC
+pa:ਮਹਾਂਸਾਗਰ	I-LOC
+pa:ਰਾਜਖੇਤਰ	I-LOC
+
+pa:ਪੰਜਾਬ	B-LOC
+pa:,	I-LOC
+pa:ਪਾਕਿਸਤਾਨ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦ	B-PER
+pa:ਗਰੇਟ	I-PER
+pa:ਖਲੀ	I-PER
+
+pa:ਆਇਜ਼ਾ	B-PER
+pa:ਖਾਨ	I-PER
+pa:(	O
+pa:ਫ਼ਾਰਾਹ	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮਰਸੇਡੇਜ਼-ਬੈਂਸ	B-LOC
+pa:ਆਰੇਨਾ	I-LOC
+pa:(	I-LOC
+pa:ਸ਼ਟੁੱਟਗਾਟ	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਲਿਤ	B-ORG
+pa:ਕਲਾਵਾਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਅਕੈਡਮੀ	I-ORG
+pa:,	I-ORG
+pa:ਊਮਿਓ	I-ORG
+
+pa:Marx	B-PER
+pa:,	I-PER
+pa:Karl	I-PER
+pa:and	O
+pa:Frederick	B-PER
+pa:Engels	I-PER
+pa:.	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਲ	B-ORG
+pa:ਇੰਡੀਆ	I-ORG
+pa:ਸਟੂਡੈਂਟਸ	I-ORG
+pa:ਫੈਡਰੇਸ਼ਨ	I-ORG
+
+pa:ਸ਼ੰਕਰ	B-PER
+pa:ਦਯਾਲ	I-PER
+pa:ਸ਼ਰਮਾ	I-PER
+pa:(	O
+pa:1918–1999	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੀਲਮ	B-PER
+pa:ਮਾਨ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਚੌਧਰੀ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਅਰੂਬਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਕਤੀਲ	B-PER
+pa:(	O
+pa:1919-2001	O
+pa:)	O
+
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:ਭਾਰਤੀ	B-LOC
+pa:ਮਿਆਰੀ	I-LOC
+pa:ਸਮਾਂ	I-LOC
+
+pa:Paristan	O
+pa:or	O
+pa:Pari-estan	O
+pa:–	O
+pa:a	O
+pa:''fairyland	O
+pa:''	O
+pa:in	O
+pa:the	O
+pa:folklore	O
+pa:of	O
+pa:Middle	B-LOC
+pa:East	I-LOC
+pa:,	O
+pa:South	B-LOC
+pa:Asia	I-LOC
+pa:and	O
+pa:Central	B-LOC
+pa:Asia	I-LOC
+pa:.	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਿਲੀਅਮ	B-PER
+pa:ਜੋਨਜ਼	I-PER
+pa:(	I-PER
+pa:ਭਾਸ਼ਾ	I-PER
+pa:ਸ਼ਾਸਤਰੀ	I-PER
+pa:)	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੀਐਰ	B-PER
+pa:ਦ	I-PER
+pa:ਫ਼ੈਰਮਾ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੈਸ਼ਨਲ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਡਰਾਮਾ	I-ORG
+
+pa:[[ਖਾੱਜੀਆਰ	O
+pa:,	O
+pa:ਹਿਮਾਚਲ	B-LOC
+pa:ਪ੍ਰਦੇਸ਼	I-LOC
+pa:,	O
+pa:ਭਾਰਤ]]	O
+
+pa:ਭਗਤ	B-PER
+pa:ਪੀਪਾ	I-PER
+pa:ਜੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੇਂਟ	B-ORG
+pa:ਐਂਡਰਿਊਜ਼	I-ORG
+pa:ਸਟੇਡੀਅਮ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਫ਼ਲੌਇਡ	B-PER
+pa:ਮੇਅਵੈਦਰ	I-PER
+pa:ਜੂਨੀਅਰ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਹਵਾ	B-ORG
+pa:ਮਹਿਲ	I-ORG
+pa:''	O
+pa:'	O
+
+pa:ਰਜ਼ੀਆ	B-PER
+pa:ਸੁਲਤਾਨ	I-PER
+pa:ਨੂੰ	O
+pa:ਨਜ਼ਰਬੰਦ	O
+pa:ਕੀਤਾ	O
+pa:ਗਿਆ	O
+
+pa:ਨਾਟਸ਼ਾਲਾ	O
+pa:ਵਿੱਚ	O
+pa:ਵਰਤੀਆਂ	O
+pa:ਜਾਂਦੀਆਂ	O
+pa:ਲਾਈਟਾਂ	O
+pa:ਸੂਖਮ	O
+pa:ਕੰਪਿਊਟਰ	B-LOC
+pa:ਜੁਗਤਾਂ	O
+pa:ਨਾਲ	O
+pa:ਜੁੜੀਆਂ	O
+pa:ਹੋਈਆਂ	O
+pa:ਹਨ।	O
+
+pa:ਹਾਮਜ਼ਾ	B-PER
+pa:ਅਲੀ	I-PER
+pa:ਅੱਬਾਸੀ	I-PER
+pa:(	O
+pa:ਕੈਮਿਓ	O
+pa:ਦਿੱਖ	O
+pa:)	O
+
+pa:ਪੀਲ	B-LOC
+pa:ਡਿਸਟ੍ਰਿਕਟ	I-LOC
+pa:ਸਕੂਲ	I-LOC
+pa:ਬੋਰਡ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜੋਸਫ	B-PER
+pa:ਡੇਵੀ	I-PER
+pa:ਕਨਿੰਘਮ	I-PER
+
+pa:ਭਾਰਤ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਮਾਂ	O
+pa:,	O
+pa:ਆਈ	O
+pa:,	O
+pa:ਅੰਮਾ	O
+pa:ਅਤੇ	O
+pa:ਮਾਤਾ।	O
+
+pa:ਵਿਸ਼ਵ	B-ORG
+pa:ਵਿਰਾਸਤ	I-ORG
+pa:ਟਿਕਾਣਾ	I-ORG
+
+pa:ਖੇਤਰੀ	O
+pa:ਪਾਠ	O
+pa:ਪੁਸਤਕ	O
+pa:ਵਿਕਰੀ	O
+pa:ਡੀਪੂ	O
+pa:ਰੂਪਨਗਰ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਾਦ	B-LOC
+pa:ਪੀਐਖ਼	I-LOC
+pa:ਮੋਖ਼ਵਾ	I-LOC
+
+pa:ਪਟਿਆਲਾ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਦ	I-ORG
+pa:ਡੈੱਫ਼-ਬਲਾਈਂਡ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਯੋਸਿਫ਼	B-PER
+pa:ਬਰੋਡਸਕੀ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਭਾਰਤ	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਸੁਪਰੀਮ	I-ORG
+pa:ਕੋਰਟ	I-ORG
+
+pa:ਸੂਰਿਆਕਾਂਤ	B-PER
+pa:ਤਰਿਪਾਠੀ	I-PER
+pa:'ਨਿਰਾਲਾ	I-PER
+pa:'	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਵੀਲਾ	B-ORG
+pa:ਦੀਆਂ	I-ORG
+pa:ਕੰਧਾਂ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੀਗੇਲ	B-PER
+pa:ਦੇ	I-PER
+pa:ਸਿਰਵਾਂਤਿਸ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾ	B-ORG
+pa:ਅਸੂੰਸੀਓਨ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਸਾਓ	B-LOC
+pa:ਤੋਮੇ	I-LOC
+pa:ਅਤੇ	I-LOC
+pa:ਪ੍ਰਿੰਸੀਪੀ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਹੈਲੀਫ਼ੈਕਸ	B-LOC
+pa:,	I-LOC
+pa:ਨੋਵਾ	I-LOC
+pa:ਸਕੋਸ਼ਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਸੋਤੋ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਲੂਈਞਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਹੈਮਿਲਟਨ	B-LOC
+pa:,	I-LOC
+pa:ਨਿਊਜ਼ੀਲੈਂਡ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਬੀਯਾਨੁਐਬਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗੁਆਦਿਕਸ	B-ORG
+pa:ਦਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸ਼ਿਆਮਜੀ	B-PER
+pa:ਕ੍ਰਿਸਨ	I-PER
+pa:ਵਰਮਾ	I-PER
+
+pa:ਗੁਰੂ	B-LOC
+pa:ਗੋਬਿੰਦ	I-LOC
+pa:ਸਿੰਘ	I-LOC
+pa:ਮਾਰਗ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦੋਨਿਆਨਾ	B-LOC
+pa:ਕੌਮੀ	I-LOC
+pa:ਪਾਰਕ	I-LOC
+
+pa:ਬੰਗਲਾਦੇਸ਼	B-LOC
+pa:(	O
+pa:BAN	O
+pa:)	O
+pa:‡†	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਿਗਨ	B-ORG
+pa:ਅਥਲੈਟਿਕ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਮਹਾਂਨਗਰੀ	B-LOC
+pa:ਇਲਾਕਾ	I-LOC
+pa:ਜਾਲ	I-LOC
+
+pa:ਲੀਨੋਵੋ	B-ORG
+pa:(	O
+pa:Lenovo	O
+pa:)	O
+
+pa:ਹਰੀਮ	B-PER
+pa:ਫ਼ਾਰੂਕ਼	I-PER
+pa:(	O
+pa:ਅਰਜੁਮੰਦ	O
+pa:)	O
+
+pa:੨੦੦੮	B-ORG
+pa:ਓਲੰਪਿਕ	I-ORG
+pa:ਖੇਡਾਂ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਵਿੱਚ	I-ORG
+pa:ਕੁਸ਼ਤੀ	I-ORG
+pa:–	I-ORG
+pa:ਪੁਰਸ਼ਾਂ	I-ORG
+pa:ਦੀ	I-ORG
+pa:ਫ੍ਰੀਸਟਾਇਲ	I-ORG
+pa:੧੨੦	I-ORG
+pa:ਕਿਲੋਗਰਾਮ	I-ORG
+
+pa:Shaniwar	O
+pa:Wada	O
+pa:,	O
+pa:Pune	B-LOC
+pa:of	O
+pa:the	O
+pa:Peshwas	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗੁਰੂ	B-ORG
+pa:ਕਾਸ਼ੀ	I-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਕਿੰਗਜ਼	B-ORG
+pa:XI	I-ORG
+pa:ਪੰਜਾਬ	I-ORG
+pa:''	O
+pa:'	O
+
+pa:Granada	B-LOC
+pa:,	O
+pa:Spain	B-LOC
+pa:(	O
+pa:2014	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਂਤੋਰਬੇਰੀ	B-ORG
+pa:ਦੇ	I-ORG
+pa:ਸਾਂਤੋ	I-ORG
+pa:ਤੋਮਾਸ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਆਬੀਲੇਸ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੁਐਸਤਰਾ	B-ORG
+pa:ਸੇਞੋਰਾ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਗਰਾਸੀਆ	I-ORG
+pa:ਪਾਦਰੀ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਲੰਡਨ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਇਕਨਾਮਿਕਸ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੌਲੱਖਾ	B-LOC
+pa:,	I-LOC
+pa:ਪੰਜਾਬ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਹਮੀਰਪੁਰ	B-ORG
+pa:ਲੋਕ	I-ORG
+pa:ਸਭਾ	I-ORG
+pa:ਹਲਕਾ	I-ORG
+pa:(	I-ORG
+pa:ਉੱਤਰ	I-ORG
+pa:ਪ੍ਰਦੇਸ਼	I-ORG
+pa:)	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਜਾਰਜ	B-PER
+pa:ਵਾਸ਼ਿੰਗਟਨ	I-PER
+pa:''	O
+pa:'	O
+pa:(	O
+pa:1732-1799	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੈਲਵਿਲ	B-PER
+pa:ਜੇ	I-PER
+pa:ਹਰਸਕੋਵਿਤਸ	I-PER
+
+pa:ਨਵਾਂ	B-LOC
+pa:ਤਾਈਪਈ	I-LOC
+pa:ਸ਼ਹਿਰ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਫੇਦੇਰੀਕੋ	B-PER
+pa:ਗਾਰਸੀਆ	I-PER
+pa:ਲੋਰਕਾ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਮੋਂਤੇਰੇਈ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾ	B-ORG
+pa:ਕੌਨਸੈਪਸੀਓਨ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਸਾਂਤੋ	B-LOC
+pa:ਦੋਮਿੰਗੋ	I-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਨ	B-ORG
+pa:ਸਿਬਾਸਤੀਆਨ	I-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਪ੍ਰਕਾਸ਼	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਬਦਲਣਯੋਗ	I-ORG
+pa:ਸਪੀਡ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਸਟਰੇਲੀਆ	B-LOC
+pa:(	I-LOC
+pa:ਮਹਾਂਦੀਪ	I-LOC
+pa:)	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਪਾਕਿਸਤਾਨ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:ਥਿਓਡੋਰ	B-PER
+pa:ਰੂਜ਼ਵੈਲਟ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਹਜ਼ਰਤ	B-ORG
+pa:ਨਿਜ਼ਾਮੂਦੀਨ	I-ORG
+pa:ਰੇਲਵੇ	I-ORG
+pa:ਸਟੇਸ਼ਨ	I-ORG
+
+pa:ਉੱਤਰੀ	B-LOC
+pa:ਰਾਈਨ-ਪੱਛਮੀ	I-LOC
+pa:ਫ਼ਾਲਨ	I-LOC
+
+pa:Onge	O
+pa:of	O
+pa:the	O
+pa:Andaman	B-LOC
+pa:and	I-LOC
+pa:Nicobar	I-LOC
+pa:Islands	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸ੍ਰੀ	B-LOC
+pa:ਮੁਕਤਸਰ	I-LOC
+pa:ਸਾਹਿਬ	I-LOC
+
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:*1937	O
+pa:ਵਿੱਚ	O
+pa:ਪਹਿਲਾ	O
+pa:ਬਰਫ	O
+pa:ਦਾ	O
+pa:ਸਟੇਸਨ	O
+pa:ਰੂਸ	B-LOC
+pa:ਨੇ	O
+pa:ਸਥਾਪਿਤ	O
+pa:ਕੀਤਾ।	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅੰਡੋਰਾ	B-LOC
+pa:ਲਾ	I-LOC
+pa:ਵੇਲਾ	I-LOC
+
+pa:ਫ਼ੈਜ਼	B-PER
+pa:(	O
+pa:1911-1984	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਪੰਜਾਬ	B-ORG
+pa:ਖੇਤੀਬਾੜੀ	I-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਤ੍ਰਿਣਮੂਲ	B-ORG
+pa:ਕਾਂਗਰਸ	I-ORG
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:ਮੈਸੂਰ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਜਿਕਨ	B-LOC
+pa:(	O
+pa:Rēzekne	O
+pa:)	O
+
+pa:ਅਤੇ	O
+pa:ਜਲੰਧਰ	B-LOC
+pa:ਤੋਂ	O
+pa:33	O
+pa:ਕਿ.ਮੀ	O
+pa:.	O
+
+pa:Gobustan	O
+pa:Rayon	O
+pa:,	O
+pa:ਅਜ਼ਰਬਾਈਜਾਨ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕੌਮੀ	B-ORG
+pa:ਮਨੁੱਖੀ	I-ORG
+pa:ਹੱਕ	I-ORG
+pa:ਕਮਿਸ਼ਨ	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਘੱਟ	B-ORG
+pa:ਗਿਣਤੀਆਂ	I-ORG
+pa:ਸਰੋਕਾਰ	I-ORG
+pa:ਵਜ਼ਾਰਤ	I-ORG
+pa:(	I-ORG
+pa:ਭਾਰਤ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੀਨੀਓ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਗੁਫ਼ਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਹਾਂਸ	B-PER
+pa:ਕ੍ਰਿਸਚਨ	I-PER
+pa:ਆਂਡਰਸਨ	I-PER
+
+pa:ਪਾਕਿਸਤਾਨ	B-LOC
+pa:(	O
+pa:PAK	O
+pa:)	O
+pa:‡	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬੈਂਗਣੀ	B-ORG
+pa:(	I-ORG
+pa:ਰੰਗ	I-ORG
+pa:)	I-ORG
+
+pa:2011	O
+pa:ਹਮਸਫ਼ਰ	B-ORG
+pa:''	O
+pa:on	O
+pa:Hum	B-ORG
+pa:TV	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਿਓਨ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾ	B-ORG
+pa:ਮਾਗਦਾਲੇਨਾ	I-ORG
+pa:ਆਸ਼ਰਮ	I-ORG
+
+pa:Sentinelese	O
+pa:of	O
+pa:the	O
+pa:Andaman	B-LOC
+pa:and	I-LOC
+pa:Nicobar	I-LOC
+pa:Islands	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਬਿਦ	B-PER
+pa:ਅਲੀ	I-PER
+pa:ਆਬਿਦ	B-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਰਲ	B-PER
+pa:ਫ਼ਰੀਡਰਿਚ	I-PER
+pa:ਗੌਸ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਾਮਸਰ	B-LOC
+pa:,	I-LOC
+pa:ਮਾਜ਼ਨਦਰਾਨ	I-LOC
+
+pa:ਗੁਰੂ	B-PER
+pa:ਅਰਜਨ	I-PER
+pa:ਦੇਵ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਾਰਜੀਆ	B-LOC
+pa:(	I-LOC
+pa:ਦੇਸ਼	I-LOC
+pa:)	I-LOC
+
+pa:ਫ਼ਰੀਦਾ	B-PER
+pa:ਜਲਾਲ	I-PER
+pa:(	O
+pa:ਵਿਹਾਨ	O
+pa:ਦੀ	O
+pa:ਦਾਦੀ	O
+pa:ਮਾਂ	O
+pa:)	O
+
+pa:ਵਾਸ਼ਿੰਗਟਨ	B-LOC
+pa:,	I-LOC
+pa:ਡੀ.ਸੀ	I-LOC
+pa:.	I-LOC
+pa:,	O
+pa:ਯੂ.ਐੱਸ.ਏ	O
+pa:.	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਮਜਦ	B-PER
+pa:ਅਲੀ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਖ਼ਿਤਾਫ਼ੇ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਲਕਾਲਾ	B-LOC
+pa:ਦੇ	I-LOC
+pa:ਏਨਾਰਿਸ	I-LOC
+
+pa:ਗਿਆਨੀ	B-PER
+pa:ਗੁਰਮੁਖ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਮੁਸਾਫ਼ਿਰ	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਮੇਦੇਯੀਨ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਗੈਬਰੀਅਲ	B-PER
+pa:ਗਾਰਸੀਆ	I-PER
+pa:ਮਾਰਕੇਜ਼	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲੰਡਨ	B-ORG
+pa:ਸਟਾਕ	I-ORG
+pa:ਐਕਸਚੇਂਜ	I-ORG
+
+pa:ਝਗੜਦੇ	B-ORG
+pa:ਰਾਜਾਂ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਕਾਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੀਗੇਲ	B-PER
+pa:ਦੇ	I-PER
+pa:ਸਿਰਵਾਂਤਿਸ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਫ਼ੈਲੀਕਸ	B-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਐੱਲ	I-ORG
+pa:ਪੀਨੋ	I-ORG
+pa:)	I-ORG
+
+pa:ਗੁਰੂ	B-PER
+pa:ਗੋਬਿੰਦ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਹਿੰਦੁਸਤਾਨ	B-PER
+pa:ਸੋਸ਼ਲਿਸਟ	I-PER
+pa:ਰਿਪਬਲੀਕਨ	I-PER
+pa:ਐਸੋਸੀਏਸ਼ਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਮੇਸ਼	B-PER
+pa:ਚੰਦਰ	I-PER
+pa:ਦੱਤ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਸਾਲਬਾਤੀਏਰਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸ਼ਰੀਪਾਦ	B-PER
+pa:ਅਮ੍ਰਿਤ	I-PER
+pa:ਡਾਂਗੇ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਇੰਦਰਪ੍ਰਸਥ	B-ORG
+pa:ਸੂਚਨਾ	I-ORG
+pa:ਤਕਨਾਲੋਜੀ	I-ORG
+pa:ਇੰਸਟੀਚਿਊਟ	I-ORG
+
+pa:ਔਂਗ	B-PER
+pa:ਸੈਨ	I-PER
+pa:ਸੂ	I-PER
+pa:ਚੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਆਰਕੌਸ	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਲਾ	I-ORG
+pa:ਫ਼ਰੌਂਤੇਰਾ	I-ORG
+pa:)	I-ORG
+
+pa:ਵਿਸ਼ਵ	B-ORG
+pa:ਵਿਰਾਸਤ	I-ORG
+pa:ਟਿਕਾਣਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਅਰਬ	I-LOC
+pa:ਇਮਰਾਤ	I-LOC
+
+pa:'	O
+pa:''	O
+pa:ਦੇਹਰਾਦੂਨ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:ਉੱਤਰੀ	B-LOC
+pa:ਸਾਈਪ੍ਰਸ	I-LOC
+pa:''	O
+pa:'	O
+
+pa:ਹਾਂਗਕਾਂਗ	B-LOC
+pa:ਵਿੱਚ	I-LOC
+pa:ਰੋਸ-ਲਹਿਰ	I-LOC
+pa:2014	I-LOC
+
+pa:ਫ਼ੰਡੀ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਖਾੜੀ	I-LOC
+
+pa:ਤਖ਼ਤ	B-ORG
+pa:ਸ੍ਰੀ	I-ORG
+pa:ਪਟਨਾ	I-ORG
+pa:ਸਾਹਿਬ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਾਨ	B-PER
+pa:ਫ਼ਰੇਜ਼ਰ	I-PER
+pa:(	I-PER
+pa:ਟੈਨਿਸ	I-PER
+pa:ਖਿਡਾਰੀ	I-PER
+pa:)	I-PER
+
+pa:ਲੁਧਿਅਾਣਾ	O
+pa:ਤੋਂ	O
+pa:ਮਾਲੇਰਕੋਟਲਾ	B-LOC
+pa:ਲਿੰਕ	O
+pa:ਸੜਕ	O
+
+pa:ਅਲਬੂਕਰਕੀ	B-LOC
+pa:,	I-LOC
+pa:ਨਿਊ	I-LOC
+pa:ਮੈਕਸੀਕੋ	I-LOC
+
+pa:ਹਾਂਗਕਾਂਗ	B-LOC
+pa:(	O
+pa:HKG	O
+pa:)	O
+pa:‡	O
+
+pa:[[ਰਿਸ਼ੀਕੇਸ਼	O
+pa:,	O
+pa:ਭਾਰਤ	B-LOC
+pa:ਵਿੱਚ	O
+pa:ਮਹਿੰਦੀ	O
+pa:ਲਗਾਉਣ	O
+pa:ਵਾਲਾ	O
+pa:ਕੰਮ	O
+pa:ਕਰਦੇ	O
+pa:ਹੋਏ।]]	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਐੱਮ.	B-PER
+pa:ਕੇ.	I-PER
+pa:ਰੈਨਾ	I-PER
+
+pa:''	O
+pa:ਭਾਈ	B-PER
+pa:ਤਾਰੂ	I-PER
+pa:ਸਿੰਘ	I-PER
+pa:''	O
+
+pa:'	O
+pa:''	O
+pa:ਦਿੱਲੀ	B-ORG
+pa:ਡੇਅਰਡੈਵਿਲਜ਼	I-ORG
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਈਅਦ	B-PER
+pa:ਅਹਿਮਦ	I-PER
+pa:ਖ਼ਾਨ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਲਕਾਲਾ	B-ORG
+pa:ਏਨਾਰਿਸ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਲਾਟ-ਪਾਦਰੀ	I-ORG
+pa:ਮਹਿਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੱਧ	B-LOC
+pa:ਅਫਰੀਕੀ	I-LOC
+pa:ਗਣਰਾਜ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾ	B-ORG
+pa:ਆਸੂਨਸੀਓਨ	I-ORG
+pa:ਦਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਕਪੂਰ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਆਈ.	I-PER
+pa:ਸੀ.	I-PER
+pa:ਐਸ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬੁਰਗੋਸ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਾਂਤਾ	B-ORG
+pa:ਮਾਰੀਆ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+pa:(	I-ORG
+pa:ਬੀਆਮਾਈਓਰ	I-ORG
+pa:)	I-ORG
+
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਲਮੂਦਾਈਨਾ	B-ORG
+pa:ਸ਼ਾਹੀ	I-ORG
+pa:ਮਹਿਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸ਼ੈਲੇਂਦਰ	B-PER
+pa:(	I-PER
+pa:ਗੀਤਕਾਰ	I-PER
+pa:)	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਮੇਡੀ	B-ORG
+pa:ਨਾਈਟਜ਼	I-ORG
+pa:ਵਿਦ	I-ORG
+pa:ਕਪਿਲ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਾਰਜੀਆ	B-LOC
+pa:(	I-LOC
+pa:ਦੇਸ਼	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਜਰਨੈਲ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਭਿੰਡਰਾਂਵਾਲਾ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਭਾਰਤੀ	B-ORG
+pa:ਪ੍ਰਸ਼ਾਸਕੀ	I-ORG
+pa:ਸੇਵਾ	I-ORG
+
+pa:ਅਮੀਰ	B-PER
+pa:ਖ਼ੁਸਰੋ	I-PER
+pa:(	O
+pa:1253–1325	O
+pa:)	O
+
+pa:ਬਰਤਾਨਵੀ	B-LOC
+pa:ਹਿੰਦ	I-LOC
+pa:ਮਹਾਂਸਾਗਰ	I-LOC
+pa:ਰਾਜਖੇਤਰ	I-LOC
+
+pa:ਸਰਕਾਰੀ	B-ORG
+pa:ਮੈਡੀਕਲ	I-ORG
+pa:ਕਾਲਜ	I-ORG
+pa:,	I-ORG
+pa:ਪਟਿਆਲਾ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਟ੍ਰਾਂਸਪੋਰਟ	B-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਲੰਡਨ	I-ORG
+
+pa:**	O
+pa:Barlas	O
+pa:(	O
+pa:A	O
+pa:Turkic	O
+pa:Tribe	O
+pa:to	O
+pa:which	O
+pa:Babur	B-PER
+pa:belonged	O
+pa:)	O
+
+pa:'	O
+pa:''	O
+pa:ਗੁਆਇਆਕੀਲ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:ਲੀਮਾ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਭਾਰਤੀ	B-ORG
+pa:ਖੇਤ	I-ORG
+pa:ਮਜ਼ਦੂਰ	I-ORG
+pa:ਯੂਨੀਅਨ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਬਾਦਾਖ਼ੋਸ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਚੰਡੀਗੜ੍ਹ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਮਖ਼ਦੂਮ	B-PER
+pa:ਮੁਹੀਉੱਦੀਨ	I-PER
+pa:(	O
+pa:1908-1969	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰਬਿੰਦਰ	B-PER
+pa:ਨਾਥ	I-PER
+pa:ਟੈਗੋਰ	I-PER
+
+pa:2012	O
+pa:ਜ਼ਿੰਦਗੀ	B-ORG
+pa:ਗੁਲਜ਼ਾਰ	I-ORG
+pa:ਹੈ	I-ORG
+pa:''	O
+pa:on	O
+pa:Hum	B-ORG
+pa:TV	I-ORG
+
+pa:ਸਥਾਨ	O
+pa:ਬੰਗਾਲ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਖਾੜੀ	I-LOC
+pa:,	O
+pa:ਬੰਗਲਾਦੇਸ਼	B-LOC
+
+pa:(	O
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+pa:)	O
+
+pa:ਚਾਂਸਲਰ	B-PER
+pa:(	I-PER
+pa:ਸਿਖਿਆ	I-PER
+pa:)	I-PER
+
+pa:'	O
+pa:''	O
+pa:ਸਵੇਤਲਾਨਾ	B-PER
+pa:ਅਲੈਕਸੇਵਿਚ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਪੂਰ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:ਆਈ.	I-PER
+pa:ਸੀ.	I-PER
+pa:ਐਸ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਇਬੀਸਾ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਮਾਲੇਸਿ	B-LOC
+pa:ਈ	I-LOC
+pa:ਮਾਧੇ	I-LOC
+pa:ਜ਼ਿਲਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਭਾਈ	B-PER
+pa:ਮੁਹਕਮ	I-PER
+pa:ਸਿੰਘ	I-PER
+
+pa:ਭਾਰਤੀ	B-LOC
+pa:ਖੇਤਰੀ	I-LOC
+pa:ਜਹਾਜ਼ਰਾਨੀ	I-LOC
+pa:ਉੱਪਗ੍ਰਹਿ	I-LOC
+pa:ਪ੍ਰਬੰਧ	I-LOC
+
+pa:ਬ੍ਰਿਟਿਸ਼	B-LOC
+pa:ਭਾਰਤ	I-LOC
+pa:ਸਮੇਂ	I-LOC
+pa:ਰਿਆਸਤਾਂ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾਰਜ	B-ORG
+pa:ਹੈਡਰਾਨ	I-ORG
+pa:ਕੋਲਾਈਡਰ	I-ORG
+
+pa:ਅਲਾਸਕਾ	B-LOC
+pa:ਦੀ	I-LOC
+pa:ਖਾੜੀ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੋਮਿਨ	B-PER
+pa:ਖ਼ਾਨ	I-PER
+pa:ਮੋਮਿਨ	B-PER
+
+pa:ਔਗੂਸਤ	B-ORG
+pa:ਮੇਰੀ	I-ORG
+pa:ਫਰਾਂਸੋਆ	I-ORG
+pa:ਬੇਰਨਾਰਤ	I-ORG
+
+pa:ਹਮ	B-ORG
+pa:ਟੀਵੀ	I-ORG
+pa:(	O
+pa:Telefilm	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਇਸ਼ਤਾਦੀਊ	B-ORG
+pa:ਦੂ	I-ORG
+pa:ਦਰਾਗਾਂਉ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਅਰੁਨਾਚਲ	B-ORG
+pa:ਪ੍ਰਦੇਸ਼	I-ORG
+pa:ਦੇ	I-ORG
+pa:ਮੁੱਖ	I-ORG
+pa:ਮੰਤਰੀ	I-ORG
+
+pa:ਸ਼ਾਰਜਾ	B-LOC
+pa:(	I-LOC
+pa:ਇਮਰਾਤ	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਮੁਹੰਮਦ	B-ORG
+pa:ਇਬਨ	I-ORG
+pa:ਮੂਸਾ	I-ORG
+pa:ਅਲ-ਖ਼ਵਾਰਿਜ਼ਮੀ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਹਾਂਸ	B-PER
+pa:ਕ੍ਰਿਸਚਨ	I-PER
+pa:ਆਂਡਰਸਨ	I-PER
+
+pa:ਵਾਟਿਕਾ	B-ORG
+pa:ਹਾਈ	I-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਫ਼ਾਰ	I-ORG
+pa:ਡੈੱਫ਼	I-ORG
+pa:&	I-ORG
+pa:ਡਮ	I-ORG
+
+pa:'	O
+pa:''	O
+pa:ਆਂਦਰੇ	B-PER
+pa:ਯੀਦ	I-PER
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਕਾਂਸਸ	B-ORG
+pa:ਸਿਟੀ	I-ORG
+pa:ਚੀਫ਼ਜ਼	I-ORG
+
+pa:ਸਦਕ਼ੇ	B-ORG
+pa:ਤੁਮਹਾਰੇ	I-ORG
+pa:''	O
+pa:ਸਦਕ਼ੇ	B-ORG
+pa:ਤੁਮਹਾਰੇ	I-ORG
+pa:''	O
+
+pa:ਸਾਮਿਆ	B-PER
+pa:ਮੁਮਤਾਜ਼	I-PER
+pa:-	O
+pa:ਸ਼ਾਨੋ	O
+pa:ਦੀ	O
+pa:ਮਾਂ	O
+
+pa:'	O
+pa:''	O
+pa:ਲਾ	B-LOC
+pa:ਪਾਸ	I-LOC
+pa:''	O
+pa:'	O
+
+pa:'	O
+pa:''	O
+pa:ਜੈਪੁਰ	B-LOC
+pa:''	O
+pa:'	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਲਾਲਨ	B-PER
+pa:ਸ਼ਾਹ	I-PER
+pa:ਫ਼ਕੀਰ	I-PER
+
+pa:ਮੜ੍ਹੀ	B-LOC
+pa:(	I-LOC
+pa:ਪਿੰਡ	I-LOC
+pa:)	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਨੈਸ਼ਨਲ	B-ORG
+pa:ਸਕੂਲ	I-ORG
+pa:ਆਫ਼	I-ORG
+pa:ਡਰਾਮਾ	I-ORG
+
+pa:ਨਿਊ	B-ORG
+pa:ਯਾਰਕ	I-ORG
+pa:ਸ਼ਹਿਰ	I-ORG
+pa:ਸਿੱਖਿਆ	I-ORG
+pa:ਵਿਭਾਗ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਦੇਵਕੀ	B-PER
+pa:ਨੰਦਨ	I-PER
+pa:ਖੱਤਰੀ	I-PER
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਰੂਸੀ	B-ORG
+pa:ਇਨਕਲਾਬ	I-ORG
+pa:(	I-ORG
+pa:1905	I-ORG
+pa:)	I-ORG
+
+pa:ਅਬੂ	B-LOC
+pa:ਧਾਬੀ	I-LOC
+pa:(	O
+pa:'	O
+pa:''	O
+pa:'	O
+pa:)	O
+
+pa:ਮਹਾਂਨਗਰੀ	B-LOC
+pa:ਇਲਾਕਾ	I-LOC
+pa:ਜਾਲ	I-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਭੀਮ	B-PER
+pa:ਰਾਓ	I-PER
+pa:ਅੰਬੇਡਕਰ	I-PER
+
+pa:ਸੰਯੁਕਤ	B-LOC
+pa:ਰਾਜ	I-LOC
+pa:ਅਮਰੀਕਾ	I-LOC
+
+pa:ਪੰਜਾਬ	B-ORG
+pa:ਯੂਨੀਵਰਸਿਟੀ	I-ORG
+pa:,	I-ORG
+pa:ਚੰਡੀਗੜ੍ਹ	I-ORG
+
+pa:ਕਾਰਜਕਾਰੀ	O
+pa:ਪ੍ਰਧਾਨ	B-PER
+pa:ਮੰਤਰੀ	I-PER
+pa:ਹੇਲੇਮਰੀਅਮ	O
+pa:ਡੇਜ਼ਾਲੇਨ	O
+
+pa:ਹਮਸਫ਼ਰ	B-ORG
+pa:(	I-ORG
+pa:ਟੀਵੀ	I-ORG
+pa:ਡਰਾਮਾ	I-ORG
+pa:)	I-ORG
+pa:''	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਵਾਸਕੋ	B-PER
+pa:ਦਾ	I-PER
+pa:ਗਾਮਾ	I-PER
+
+pa:ਪ੍ਰਕਾਸ਼	B-ORG
+pa:ਦੀ	I-ORG
+pa:ਬਦਲਣਯੋਗ	I-ORG
+pa:ਸਪੀਡ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਤਿੰਦਰ	B-PER
+pa:ਨਾਥ	I-PER
+pa:ਬੋਸ	I-PER
+
+pa:ਮਹਿਰੀਨ	B-PER
+pa:ਰਹੀਲ	I-PER
+pa:(	O
+pa:ਰਾਬੀਆ	O
+pa:)	O
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸਿਗੁਇੰਥਾ	B-ORG
+pa:ਵੱਡਾ	I-ORG
+pa:ਗਿਰਜਾਘਰ	I-ORG
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਆਲ	B-ORG
+pa:ਇੰਡੀਆ	I-ORG
+pa:ਟਰੇਡ	I-ORG
+pa:ਯੂਨੀਅਨ	I-ORG
+pa:ਕਾਂਗਰਸ	I-ORG
+
+pa:ਬੇਅੰਤ	B-PER
+pa:ਸਿੰਘ	I-PER
+pa:(	I-PER
+pa:ਮੁੱਖ	I-PER
+pa:ਮੰਤਰੀ	I-PER
+pa:)	I-PER
+pa:(	O
+pa:1922–1995	O
+pa:)	O
+
+pa:ਪੱਛਮੀ	B-ORG
+pa:ਜ਼ੋਨ	I-ORG
+pa:ਸੱਭਿਆਚਾਰਕ	I-ORG
+pa:ਕੇਂਦਰ	I-ORG
+pa:ਉਦੈਪੁਰ	B-LOC
+
+pa:ਰੀਡਿਰੈਕਟ	O
+pa:ਸੰਡਰਲੈਂਡ	B-ORG
+pa:ਐਸੋਸੀਏਸ਼ਨ	I-ORG
+pa:ਫੁੱਟਬਾਲ	I-ORG
+pa:ਕਲੱਬ	I-ORG
+
+pa:ਗੁਰੂ	B-PER
+pa:ਹਰਿਰਾਇ	I-PER
+pa:ਜੀ	I-PER
+
